@@ -1,0 +1,1345 @@
+police_force,month,crime_category,incident_count,year,population,incident_type,rate_per_1000,income_deprivation_rate
+Dorset Police,2024-01,Anti-social behaviour,958,2024,797350,ASB,1.2015,0.1816036336476947
+Dorset Police,2024-01,Bicycle theft,52,2024,797350,Recorded crime,0.0652,0.1816036336476947
+Dorset Police,2024-01,Burglary,211,2024,797350,Recorded crime,0.2646,0.1816036336476947
+Dorset Police,2024-01,Criminal damage and arson,417,2024,797350,Recorded crime,0.523,0.1816036336476947
+Dorset Police,2024-01,Drugs,80,2024,797350,Recorded crime,0.1003,0.1816036336476947
+Dorset Police,2024-01,Other crime,43,2024,797350,Recorded crime,0.0539,0.1816036336476947
+Dorset Police,2024-01,Other theft,336,2024,797350,Recorded crime,0.4214,0.1816036336476947
+Dorset Police,2024-01,Possession of weapons,42,2024,797350,Recorded crime,0.0527,0.1816036336476947
+Dorset Police,2024-01,Public order,262,2024,797350,Recorded crime,0.3286,0.1816036336476947
+Dorset Police,2024-01,Robbery,21,2024,797350,Recorded crime,0.0263,0.1816036336476947
+Dorset Police,2024-01,Shoplifting,350,2024,797350,Recorded crime,0.439,0.1816036336476947
+Dorset Police,2024-01,Theft from the person,20,2024,797350,Recorded crime,0.0251,0.1816036336476947
+Dorset Police,2024-01,Vehicle crime,354,2024,797350,Recorded crime,0.444,0.1816036336476947
+Dorset Police,2024-01,Violence and sexual offences,1656,2024,797350,Recorded crime,2.0769,0.1816036336476947
+Dorset Police,2024-02,Anti-social behaviour,1012,2024,797350,ASB,1.2692,0.1816036336476947
+Dorset Police,2024-02,Bicycle theft,46,2024,797350,Recorded crime,0.0577,0.1816036336476947
+Dorset Police,2024-02,Burglary,203,2024,797350,Recorded crime,0.2546,0.1816036336476947
+Dorset Police,2024-02,Criminal damage and arson,361,2024,797350,Recorded crime,0.4527,0.1816036336476947
+Dorset Police,2024-02,Drugs,69,2024,797350,Recorded crime,0.0865,0.1816036336476947
+Dorset Police,2024-02,Other crime,56,2024,797350,Recorded crime,0.0702,0.1816036336476947
+Dorset Police,2024-02,Other theft,324,2024,797350,Recorded crime,0.4063,0.1816036336476947
+Dorset Police,2024-02,Possession of weapons,34,2024,797350,Recorded crime,0.0426,0.1816036336476947
+Dorset Police,2024-02,Public order,234,2024,797350,Recorded crime,0.2935,0.1816036336476947
+Dorset Police,2024-02,Robbery,24,2024,797350,Recorded crime,0.0301,0.1816036336476947
+Dorset Police,2024-02,Shoplifting,354,2024,797350,Recorded crime,0.444,0.1816036336476947
+Dorset Police,2024-02,Theft from the person,12,2024,797350,Recorded crime,0.015,0.1816036336476947
+Dorset Police,2024-02,Vehicle crime,361,2024,797350,Recorded crime,0.4527,0.1816036336476947
+Dorset Police,2024-02,Violence and sexual offences,1530,2024,797350,Recorded crime,1.9189,0.1816036336476947
+Dorset Police,2024-03,Anti-social behaviour,1257,2024,797350,ASB,1.5765,0.1816036336476947
+Dorset Police,2024-03,Bicycle theft,47,2024,797350,Recorded crime,0.0589,0.1816036336476947
+Dorset Police,2024-03,Burglary,221,2024,797350,Recorded crime,0.2772,0.1816036336476947
+Dorset Police,2024-03,Criminal damage and arson,392,2024,797350,Recorded crime,0.4916,0.1816036336476947
+Dorset Police,2024-03,Drugs,72,2024,797350,Recorded crime,0.0903,0.1816036336476947
+Dorset Police,2024-03,Other crime,62,2024,797350,Recorded crime,0.0778,0.1816036336476947
+Dorset Police,2024-03,Other theft,361,2024,797350,Recorded crime,0.4527,0.1816036336476947
+Dorset Police,2024-03,Possession of weapons,28,2024,797350,Recorded crime,0.0351,0.1816036336476947
+Dorset Police,2024-03,Public order,279,2024,797350,Recorded crime,0.3499,0.1816036336476947
+Dorset Police,2024-03,Robbery,18,2024,797350,Recorded crime,0.0226,0.1816036336476947
+Dorset Police,2024-03,Shoplifting,348,2024,797350,Recorded crime,0.4364,0.1816036336476947
+Dorset Police,2024-03,Theft from the person,22,2024,797350,Recorded crime,0.0276,0.1816036336476947
+Dorset Police,2024-03,Vehicle crime,341,2024,797350,Recorded crime,0.4277,0.1816036336476947
+Dorset Police,2024-03,Violence and sexual offences,1599,2024,797350,Recorded crime,2.0054,0.1816036336476947
+Dorset Police,2024-04,Anti-social behaviour,1178,2024,797350,ASB,1.4774,0.1816036336476947
+Dorset Police,2024-04,Bicycle theft,46,2024,797350,Recorded crime,0.0577,0.1816036336476947
+Dorset Police,2024-04,Burglary,218,2024,797350,Recorded crime,0.2734,0.1816036336476947
+Dorset Police,2024-04,Criminal damage and arson,457,2024,797350,Recorded crime,0.5731,0.1816036336476947
+Dorset Police,2024-04,Drugs,91,2024,797350,Recorded crime,0.1141,0.1816036336476947
+Dorset Police,2024-04,Other crime,54,2024,797350,Recorded crime,0.0677,0.1816036336476947
+Dorset Police,2024-04,Other theft,329,2024,797350,Recorded crime,0.4126,0.1816036336476947
+Dorset Police,2024-04,Possession of weapons,30,2024,797350,Recorded crime,0.0376,0.1816036336476947
+Dorset Police,2024-04,Public order,285,2024,797350,Recorded crime,0.3574,0.1816036336476947
+Dorset Police,2024-04,Robbery,25,2024,797350,Recorded crime,0.0314,0.1816036336476947
+Dorset Police,2024-04,Shoplifting,461,2024,797350,Recorded crime,0.5782,0.1816036336476947
+Dorset Police,2024-04,Theft from the person,36,2024,797350,Recorded crime,0.0451,0.1816036336476947
+Dorset Police,2024-04,Vehicle crime,320,2024,797350,Recorded crime,0.4013,0.1816036336476947
+Dorset Police,2024-04,Violence and sexual offences,1620,2024,797350,Recorded crime,2.0317,0.1816036336476947
+Dorset Police,2024-05,Anti-social behaviour,1387,2024,797350,ASB,1.7395,0.1816036336476947
+Dorset Police,2024-05,Bicycle theft,51,2024,797350,Recorded crime,0.064,0.1816036336476947
+Dorset Police,2024-05,Burglary,216,2024,797350,Recorded crime,0.2709,0.1816036336476947
+Dorset Police,2024-05,Criminal damage and arson,427,2024,797350,Recorded crime,0.5355,0.1816036336476947
+Dorset Police,2024-05,Drugs,92,2024,797350,Recorded crime,0.1154,0.1816036336476947
+Dorset Police,2024-05,Other crime,61,2024,797350,Recorded crime,0.0765,0.1816036336476947
+Dorset Police,2024-05,Other theft,350,2024,797350,Recorded crime,0.439,0.1816036336476947
+Dorset Police,2024-05,Possession of weapons,43,2024,797350,Recorded crime,0.0539,0.1816036336476947
+Dorset Police,2024-05,Public order,346,2024,797350,Recorded crime,0.4339,0.1816036336476947
+Dorset Police,2024-05,Robbery,28,2024,797350,Recorded crime,0.0351,0.1816036336476947
+Dorset Police,2024-05,Shoplifting,412,2024,797350,Recorded crime,0.5167,0.1816036336476947
+Dorset Police,2024-05,Theft from the person,41,2024,797350,Recorded crime,0.0514,0.1816036336476947
+Dorset Police,2024-05,Vehicle crime,421,2024,797350,Recorded crime,0.528,0.1816036336476947
+Dorset Police,2024-05,Violence and sexual offences,1842,2024,797350,Recorded crime,2.3102,0.1816036336476947
+Dorset Police,2024-06,Anti-social behaviour,1421,2024,797350,ASB,1.7822,0.1816036336476947
+Dorset Police,2024-06,Bicycle theft,33,2024,797350,Recorded crime,0.0414,0.1816036336476947
+Dorset Police,2024-06,Burglary,218,2024,797350,Recorded crime,0.2734,0.1816036336476947
+Dorset Police,2024-06,Criminal damage and arson,398,2024,797350,Recorded crime,0.4992,0.1816036336476947
+Dorset Police,2024-06,Drugs,83,2024,797350,Recorded crime,0.1041,0.1816036336476947
+Dorset Police,2024-06,Other crime,43,2024,797350,Recorded crime,0.0539,0.1816036336476947
+Dorset Police,2024-06,Other theft,346,2024,797350,Recorded crime,0.4339,0.1816036336476947
+Dorset Police,2024-06,Possession of weapons,31,2024,797350,Recorded crime,0.0389,0.1816036336476947
+Dorset Police,2024-06,Public order,371,2024,797350,Recorded crime,0.4653,0.1816036336476947
+Dorset Police,2024-06,Robbery,32,2024,797350,Recorded crime,0.0401,0.1816036336476947
+Dorset Police,2024-06,Shoplifting,337,2024,797350,Recorded crime,0.4227,0.1816036336476947
+Dorset Police,2024-06,Theft from the person,33,2024,797350,Recorded crime,0.0414,0.1816036336476947
+Dorset Police,2024-06,Vehicle crime,306,2024,797350,Recorded crime,0.3838,0.1816036336476947
+Dorset Police,2024-06,Violence and sexual offences,1708,2024,797350,Recorded crime,2.1421,0.1816036336476947
+Dorset Police,2024-07,Anti-social behaviour,1387,2024,797350,ASB,1.7395,0.1816036336476947
+Dorset Police,2024-07,Bicycle theft,74,2024,797350,Recorded crime,0.0928,0.1816036336476947
+Dorset Police,2024-07,Burglary,215,2024,797350,Recorded crime,0.2696,0.1816036336476947
+Dorset Police,2024-07,Criminal damage and arson,458,2024,797350,Recorded crime,0.5744,0.1816036336476947
+Dorset Police,2024-07,Drugs,85,2024,797350,Recorded crime,0.1066,0.1816036336476947
+Dorset Police,2024-07,Other crime,48,2024,797350,Recorded crime,0.0602,0.1816036336476947
+Dorset Police,2024-07,Other theft,396,2024,797350,Recorded crime,0.4966,0.1816036336476947
+Dorset Police,2024-07,Possession of weapons,28,2024,797350,Recorded crime,0.0351,0.1816036336476947
+Dorset Police,2024-07,Public order,349,2024,797350,Recorded crime,0.4377,0.1816036336476947
+Dorset Police,2024-07,Robbery,30,2024,797350,Recorded crime,0.0376,0.1816036336476947
+Dorset Police,2024-07,Shoplifting,381,2024,797350,Recorded crime,0.4778,0.1816036336476947
+Dorset Police,2024-07,Theft from the person,31,2024,797350,Recorded crime,0.0389,0.1816036336476947
+Dorset Police,2024-07,Vehicle crime,374,2024,797350,Recorded crime,0.4691,0.1816036336476947
+Dorset Police,2024-07,Violence and sexual offences,1858,2024,797350,Recorded crime,2.3302,0.1816036336476947
+Dorset Police,2024-08,Anti-social behaviour,1428,2024,797350,ASB,1.7909,0.1816036336476947
+Dorset Police,2024-08,Bicycle theft,81,2024,797350,Recorded crime,0.1016,0.1816036336476947
+Dorset Police,2024-08,Burglary,253,2024,797350,Recorded crime,0.3173,0.1816036336476947
+Dorset Police,2024-08,Criminal damage and arson,421,2024,797350,Recorded crime,0.528,0.1816036336476947
+Dorset Police,2024-08,Drugs,68,2024,797350,Recorded crime,0.0853,0.1816036336476947
+Dorset Police,2024-08,Other crime,40,2024,797350,Recorded crime,0.0502,0.1816036336476947
+Dorset Police,2024-08,Other theft,409,2024,797350,Recorded crime,0.5129,0.1816036336476947
+Dorset Police,2024-08,Possession of weapons,43,2024,797350,Recorded crime,0.0539,0.1816036336476947
+Dorset Police,2024-08,Public order,369,2024,797350,Recorded crime,0.4628,0.1816036336476947
+Dorset Police,2024-08,Robbery,31,2024,797350,Recorded crime,0.0389,0.1816036336476947
+Dorset Police,2024-08,Shoplifting,441,2024,797350,Recorded crime,0.5531,0.1816036336476947
+Dorset Police,2024-08,Theft from the person,33,2024,797350,Recorded crime,0.0414,0.1816036336476947
+Dorset Police,2024-08,Vehicle crime,348,2024,797350,Recorded crime,0.4364,0.1816036336476947
+Dorset Police,2024-08,Violence and sexual offences,1813,2024,797350,Recorded crime,2.2738,0.1816036336476947
+Dorset Police,2024-09,Anti-social behaviour,1110,2024,797350,ASB,1.3921,0.1816036336476947
+Dorset Police,2024-09,Bicycle theft,68,2024,797350,Recorded crime,0.0853,0.1816036336476947
+Dorset Police,2024-09,Burglary,198,2024,797350,Recorded crime,0.2483,0.1816036336476947
+Dorset Police,2024-09,Criminal damage and arson,351,2024,797350,Recorded crime,0.4402,0.1816036336476947
+Dorset Police,2024-09,Drugs,84,2024,797350,Recorded crime,0.1053,0.1816036336476947
+Dorset Police,2024-09,Other crime,52,2024,797350,Recorded crime,0.0652,0.1816036336476947
+Dorset Police,2024-09,Other theft,348,2024,797350,Recorded crime,0.4364,0.1816036336476947
+Dorset Police,2024-09,Possession of weapons,25,2024,797350,Recorded crime,0.0314,0.1816036336476947
+Dorset Police,2024-09,Public order,297,2024,797350,Recorded crime,0.3725,0.1816036336476947
+Dorset Police,2024-09,Robbery,24,2024,797350,Recorded crime,0.0301,0.1816036336476947
+Dorset Police,2024-09,Shoplifting,418,2024,797350,Recorded crime,0.5242,0.1816036336476947
+Dorset Police,2024-09,Theft from the person,27,2024,797350,Recorded crime,0.0339,0.1816036336476947
+Dorset Police,2024-09,Vehicle crime,412,2024,797350,Recorded crime,0.5167,0.1816036336476947
+Dorset Police,2024-09,Violence and sexual offences,1531,2024,797350,Recorded crime,1.9201,0.1816036336476947
+Dorset Police,2024-10,Anti-social behaviour,1112,2024,797350,ASB,1.3946,0.1816036336476947
+Dorset Police,2024-10,Bicycle theft,46,2024,797350,Recorded crime,0.0577,0.1816036336476947
+Dorset Police,2024-10,Burglary,213,2024,797350,Recorded crime,0.2671,0.1816036336476947
+Dorset Police,2024-10,Criminal damage and arson,426,2024,797350,Recorded crime,0.5343,0.1816036336476947
+Dorset Police,2024-10,Drugs,97,2024,797350,Recorded crime,0.1217,0.1816036336476947
+Dorset Police,2024-10,Other crime,49,2024,797350,Recorded crime,0.0615,0.1816036336476947
+Dorset Police,2024-10,Other theft,379,2024,797350,Recorded crime,0.4753,0.1816036336476947
+Dorset Police,2024-10,Possession of weapons,35,2024,797350,Recorded crime,0.0439,0.1816036336476947
+Dorset Police,2024-10,Public order,320,2024,797350,Recorded crime,0.4013,0.1816036336476947
+Dorset Police,2024-10,Robbery,30,2024,797350,Recorded crime,0.0376,0.1816036336476947
+Dorset Police,2024-10,Shoplifting,372,2024,797350,Recorded crime,0.4665,0.1816036336476947
+Dorset Police,2024-10,Theft from the person,35,2024,797350,Recorded crime,0.0439,0.1816036336476947
+Dorset Police,2024-10,Vehicle crime,444,2024,797350,Recorded crime,0.5568,0.1816036336476947
+Dorset Police,2024-10,Violence and sexual offences,1664,2024,797350,Recorded crime,2.0869,0.1816036336476947
+Dorset Police,2024-11,Anti-social behaviour,957,2024,797350,ASB,1.2002,0.1816036336476947
+Dorset Police,2024-11,Bicycle theft,44,2024,797350,Recorded crime,0.0552,0.1816036336476947
+Dorset Police,2024-11,Burglary,189,2024,797350,Recorded crime,0.237,0.1816036336476947
+Dorset Police,2024-11,Criminal damage and arson,418,2024,797350,Recorded crime,0.5242,0.1816036336476947
+Dorset Police,2024-11,Drugs,67,2024,797350,Recorded crime,0.084,0.1816036336476947
+Dorset Police,2024-11,Other crime,59,2024,797350,Recorded crime,0.074,0.1816036336476947
+Dorset Police,2024-11,Other theft,326,2024,797350,Recorded crime,0.4089,0.1816036336476947
+Dorset Police,2024-11,Possession of weapons,20,2024,797350,Recorded crime,0.0251,0.1816036336476947
+Dorset Police,2024-11,Public order,287,2024,797350,Recorded crime,0.3599,0.1816036336476947
+Dorset Police,2024-11,Robbery,30,2024,797350,Recorded crime,0.0376,0.1816036336476947
+Dorset Police,2024-11,Shoplifting,330,2024,797350,Recorded crime,0.4139,0.1816036336476947
+Dorset Police,2024-11,Theft from the person,28,2024,797350,Recorded crime,0.0351,0.1816036336476947
+Dorset Police,2024-11,Vehicle crime,274,2024,797350,Recorded crime,0.3436,0.1816036336476947
+Dorset Police,2024-11,Violence and sexual offences,1657,2024,797350,Recorded crime,2.0781,0.1816036336476947
+Dorset Police,2024-12,Anti-social behaviour,810,2024,797350,ASB,1.0159,0.1816036336476947
+Dorset Police,2024-12,Bicycle theft,37,2024,797350,Recorded crime,0.0464,0.1816036336476947
+Dorset Police,2024-12,Burglary,216,2024,797350,Recorded crime,0.2709,0.1816036336476947
+Dorset Police,2024-12,Criminal damage and arson,394,2024,797350,Recorded crime,0.4941,0.1816036336476947
+Dorset Police,2024-12,Drugs,67,2024,797350,Recorded crime,0.084,0.1816036336476947
+Dorset Police,2024-12,Other crime,55,2024,797350,Recorded crime,0.069,0.1816036336476947
+Dorset Police,2024-12,Other theft,371,2024,797350,Recorded crime,0.4653,0.1816036336476947
+Dorset Police,2024-12,Possession of weapons,28,2024,797350,Recorded crime,0.0351,0.1816036336476947
+Dorset Police,2024-12,Public order,232,2024,797350,Recorded crime,0.291,0.1816036336476947
+Dorset Police,2024-12,Robbery,25,2024,797350,Recorded crime,0.0314,0.1816036336476947
+Dorset Police,2024-12,Shoplifting,308,2024,797350,Recorded crime,0.3863,0.1816036336476947
+Dorset Police,2024-12,Theft from the person,30,2024,797350,Recorded crime,0.0376,0.1816036336476947
+Dorset Police,2024-12,Vehicle crime,285,2024,797350,Recorded crime,0.3574,0.1816036336476947
+Dorset Police,2024-12,Violence and sexual offences,1470,2024,797350,Recorded crime,1.8436,0.1816036336476947
+Dorset Police,2025-01,Anti-social behaviour,795,2025,796865,ASB,0.9977,0.1816036336476947
+Dorset Police,2025-01,Bicycle theft,28,2025,796865,Recorded crime,0.0351,0.1816036336476947
+Dorset Police,2025-01,Burglary,137,2025,796865,Recorded crime,0.1719,0.1816036336476947
+Dorset Police,2025-01,Criminal damage and arson,331,2025,796865,Recorded crime,0.4154,0.1816036336476947
+Dorset Police,2025-01,Drugs,57,2025,796865,Recorded crime,0.0715,0.1816036336476947
+Dorset Police,2025-01,Other crime,64,2025,796865,Recorded crime,0.0803,0.1816036336476947
+Dorset Police,2025-01,Other theft,301,2025,796865,Recorded crime,0.3777,0.1816036336476947
+Dorset Police,2025-01,Possession of weapons,23,2025,796865,Recorded crime,0.0289,0.1816036336476947
+Dorset Police,2025-01,Public order,249,2025,796865,Recorded crime,0.3125,0.1816036336476947
+Dorset Police,2025-01,Robbery,21,2025,796865,Recorded crime,0.0264,0.1816036336476947
+Dorset Police,2025-01,Shoplifting,352,2025,796865,Recorded crime,0.4417,0.1816036336476947
+Dorset Police,2025-01,Theft from the person,18,2025,796865,Recorded crime,0.0226,0.1816036336476947
+Dorset Police,2025-01,Vehicle crime,208,2025,796865,Recorded crime,0.261,0.1816036336476947
+Dorset Police,2025-01,Violence and sexual offences,1572,2025,796865,Recorded crime,1.9727,0.1816036336476947
+Dorset Police,2025-02,Anti-social behaviour,826,2025,796865,ASB,1.0366,0.1816036336476947
+Dorset Police,2025-02,Bicycle theft,43,2025,796865,Recorded crime,0.054,0.1816036336476947
+Dorset Police,2025-02,Burglary,151,2025,796865,Recorded crime,0.1895,0.1816036336476947
+Dorset Police,2025-02,Criminal damage and arson,365,2025,796865,Recorded crime,0.458,0.1816036336476947
+Dorset Police,2025-02,Drugs,62,2025,796865,Recorded crime,0.0778,0.1816036336476947
+Dorset Police,2025-02,Other crime,50,2025,796865,Recorded crime,0.0627,0.1816036336476947
+Dorset Police,2025-02,Other theft,308,2025,796865,Recorded crime,0.3865,0.1816036336476947
+Dorset Police,2025-02,Possession of weapons,32,2025,796865,Recorded crime,0.0402,0.1816036336476947
+Dorset Police,2025-02,Public order,217,2025,796865,Recorded crime,0.2723,0.1816036336476947
+Dorset Police,2025-02,Robbery,17,2025,796865,Recorded crime,0.0213,0.1816036336476947
+Dorset Police,2025-02,Shoplifting,423,2025,796865,Recorded crime,0.5308,0.1816036336476947
+Dorset Police,2025-02,Theft from the person,15,2025,796865,Recorded crime,0.0188,0.1816036336476947
+Dorset Police,2025-02,Vehicle crime,239,2025,796865,Recorded crime,0.2999,0.1816036336476947
+Dorset Police,2025-02,Violence and sexual offences,1398,2025,796865,Recorded crime,1.7544,0.1816036336476947
+Dorset Police,2025-03,Anti-social behaviour,1041,2025,796865,ASB,1.3064,0.1816036336476947
+Dorset Police,2025-03,Bicycle theft,52,2025,796865,Recorded crime,0.0653,0.1816036336476947
+Dorset Police,2025-03,Burglary,188,2025,796865,Recorded crime,0.2359,0.1816036336476947
+Dorset Police,2025-03,Criminal damage and arson,365,2025,796865,Recorded crime,0.458,0.1816036336476947
+Dorset Police,2025-03,Drugs,67,2025,796865,Recorded crime,0.0841,0.1816036336476947
+Dorset Police,2025-03,Other crime,57,2025,796865,Recorded crime,0.0715,0.1816036336476947
+Dorset Police,2025-03,Other theft,299,2025,796865,Recorded crime,0.3752,0.1816036336476947
+Dorset Police,2025-03,Possession of weapons,32,2025,796865,Recorded crime,0.0402,0.1816036336476947
+Dorset Police,2025-03,Public order,291,2025,796865,Recorded crime,0.3652,0.1816036336476947
+Dorset Police,2025-03,Robbery,18,2025,796865,Recorded crime,0.0226,0.1816036336476947
+Dorset Police,2025-03,Shoplifting,441,2025,796865,Recorded crime,0.5534,0.1816036336476947
+Dorset Police,2025-03,Theft from the person,20,2025,796865,Recorded crime,0.0251,0.1816036336476947
+Dorset Police,2025-03,Vehicle crime,252,2025,796865,Recorded crime,0.3162,0.1816036336476947
+Dorset Police,2025-03,Violence and sexual offences,1636,2025,796865,Recorded crime,2.053,0.1816036336476947
+Dorset Police,2025-04,Anti-social behaviour,1212,2025,796865,ASB,1.521,0.1816036336476947
+Dorset Police,2025-04,Bicycle theft,59,2025,796865,Recorded crime,0.074,0.1816036336476947
+Dorset Police,2025-04,Burglary,178,2025,796865,Recorded crime,0.2234,0.1816036336476947
+Dorset Police,2025-04,Criminal damage and arson,396,2025,796865,Recorded crime,0.4969,0.1816036336476947
+Dorset Police,2025-04,Drugs,92,2025,796865,Recorded crime,0.1155,0.1816036336476947
+Dorset Police,2025-04,Other crime,58,2025,796865,Recorded crime,0.0728,0.1816036336476947
+Dorset Police,2025-04,Other theft,291,2025,796865,Recorded crime,0.3652,0.1816036336476947
+Dorset Police,2025-04,Possession of weapons,26,2025,796865,Recorded crime,0.0326,0.1816036336476947
+Dorset Police,2025-04,Public order,258,2025,796865,Recorded crime,0.3238,0.1816036336476947
+Dorset Police,2025-04,Robbery,35,2025,796865,Recorded crime,0.0439,0.1816036336476947
+Dorset Police,2025-04,Shoplifting,378,2025,796865,Recorded crime,0.4744,0.1816036336476947
+Dorset Police,2025-04,Theft from the person,19,2025,796865,Recorded crime,0.0238,0.1816036336476947
+Dorset Police,2025-04,Vehicle crime,234,2025,796865,Recorded crime,0.2937,0.1816036336476947
+Dorset Police,2025-04,Violence and sexual offences,1637,2025,796865,Recorded crime,2.0543,0.1816036336476947
+Dorset Police,2025-05,Anti-social behaviour,1364,2025,796865,ASB,1.7117,0.1816036336476947
+Dorset Police,2025-05,Bicycle theft,66,2025,796865,Recorded crime,0.0828,0.1816036336476947
+Dorset Police,2025-05,Burglary,180,2025,796865,Recorded crime,0.2259,0.1816036336476947
+Dorset Police,2025-05,Criminal damage and arson,396,2025,796865,Recorded crime,0.4969,0.1816036336476947
+Dorset Police,2025-05,Drugs,81,2025,796865,Recorded crime,0.1016,0.1816036336476947
+Dorset Police,2025-05,Other crime,49,2025,796865,Recorded crime,0.0615,0.1816036336476947
+Dorset Police,2025-05,Other theft,328,2025,796865,Recorded crime,0.4116,0.1816036336476947
+Dorset Police,2025-05,Possession of weapons,30,2025,796865,Recorded crime,0.0376,0.1816036336476947
+Dorset Police,2025-05,Public order,288,2025,796865,Recorded crime,0.3614,0.1816036336476947
+Dorset Police,2025-05,Robbery,43,2025,796865,Recorded crime,0.054,0.1816036336476947
+Dorset Police,2025-05,Shoplifting,419,2025,796865,Recorded crime,0.5258,0.1816036336476947
+Dorset Police,2025-05,Theft from the person,34,2025,796865,Recorded crime,0.0427,0.1816036336476947
+Dorset Police,2025-05,Vehicle crime,210,2025,796865,Recorded crime,0.2635,0.1816036336476947
+Dorset Police,2025-05,Violence and sexual offences,1765,2025,796865,Recorded crime,2.2149,0.1816036336476947
+Dorset Police,2025-06,Anti-social behaviour,1349,2025,796865,ASB,1.6929,0.1816036336476947
+Dorset Police,2025-06,Bicycle theft,48,2025,796865,Recorded crime,0.0602,0.1816036336476947
+Dorset Police,2025-06,Burglary,166,2025,796865,Recorded crime,0.2083,0.1816036336476947
+Dorset Police,2025-06,Criminal damage and arson,336,2025,796865,Recorded crime,0.4217,0.1816036336476947
+Dorset Police,2025-06,Drugs,84,2025,796865,Recorded crime,0.1054,0.1816036336476947
+Dorset Police,2025-06,Other crime,28,2025,796865,Recorded crime,0.0351,0.1816036336476947
+Dorset Police,2025-06,Other theft,304,2025,796865,Recorded crime,0.3815,0.1816036336476947
+Dorset Police,2025-06,Possession of weapons,33,2025,796865,Recorded crime,0.0414,0.1816036336476947
+Dorset Police,2025-06,Public order,257,2025,796865,Recorded crime,0.3225,0.1816036336476947
+Dorset Police,2025-06,Robbery,43,2025,796865,Recorded crime,0.054,0.1816036336476947
+Dorset Police,2025-06,Shoplifting,528,2025,796865,Recorded crime,0.6626,0.1816036336476947
+Dorset Police,2025-06,Theft from the person,23,2025,796865,Recorded crime,0.0289,0.1816036336476947
+Dorset Police,2025-06,Vehicle crime,181,2025,796865,Recorded crime,0.2271,0.1816036336476947
+Dorset Police,2025-06,Violence and sexual offences,1605,2025,796865,Recorded crime,2.0141,0.1816036336476947
+Dorset Police,2025-07,Anti-social behaviour,1723,2025,796865,ASB,2.1622,0.1816036336476947
+Dorset Police,2025-07,Bicycle theft,57,2025,796865,Recorded crime,0.0715,0.1816036336476947
+Dorset Police,2025-07,Burglary,202,2025,796865,Recorded crime,0.2535,0.1816036336476947
+Dorset Police,2025-07,Criminal damage and arson,386,2025,796865,Recorded crime,0.4844,0.1816036336476947
+Dorset Police,2025-07,Drugs,122,2025,796865,Recorded crime,0.1531,0.1816036336476947
+Dorset Police,2025-07,Other crime,46,2025,796865,Recorded crime,0.0577,0.1816036336476947
+Dorset Police,2025-07,Other theft,334,2025,796865,Recorded crime,0.4191,0.1816036336476947
+Dorset Police,2025-07,Possession of weapons,38,2025,796865,Recorded crime,0.0477,0.1816036336476947
+Dorset Police,2025-07,Public order,278,2025,796865,Recorded crime,0.3489,0.1816036336476947
+Dorset Police,2025-07,Robbery,35,2025,796865,Recorded crime,0.0439,0.1816036336476947
+Dorset Police,2025-07,Shoplifting,462,2025,796865,Recorded crime,0.5798,0.1816036336476947
+Dorset Police,2025-07,Theft from the person,27,2025,796865,Recorded crime,0.0339,0.1816036336476947
+Dorset Police,2025-07,Vehicle crime,223,2025,796865,Recorded crime,0.2798,0.1816036336476947
+Dorset Police,2025-07,Violence and sexual offences,1812,2025,796865,Recorded crime,2.2739,0.1816036336476947
+Dorset Police,2025-08,Anti-social behaviour,1446,2025,796865,ASB,1.8146,0.1816036336476947
+Dorset Police,2025-08,Bicycle theft,82,2025,796865,Recorded crime,0.1029,0.1816036336476947
+Dorset Police,2025-08,Burglary,186,2025,796865,Recorded crime,0.2334,0.1816036336476947
+Dorset Police,2025-08,Criminal damage and arson,349,2025,796865,Recorded crime,0.438,0.1816036336476947
+Dorset Police,2025-08,Drugs,76,2025,796865,Recorded crime,0.0954,0.1816036336476947
+Dorset Police,2025-08,Other crime,34,2025,796865,Recorded crime,0.0427,0.1816036336476947
+Dorset Police,2025-08,Other theft,319,2025,796865,Recorded crime,0.4003,0.1816036336476947
+Dorset Police,2025-08,Possession of weapons,32,2025,796865,Recorded crime,0.0402,0.1816036336476947
+Dorset Police,2025-08,Public order,272,2025,796865,Recorded crime,0.3413,0.1816036336476947
+Dorset Police,2025-08,Robbery,30,2025,796865,Recorded crime,0.0376,0.1816036336476947
+Dorset Police,2025-08,Shoplifting,333,2025,796865,Recorded crime,0.4179,0.1816036336476947
+Dorset Police,2025-08,Theft from the person,20,2025,796865,Recorded crime,0.0251,0.1816036336476947
+Dorset Police,2025-08,Vehicle crime,276,2025,796865,Recorded crime,0.3464,0.1816036336476947
+Dorset Police,2025-08,Violence and sexual offences,1554,2025,796865,Recorded crime,1.9501,0.1816036336476947
+Dorset Police,2025-09,Anti-social behaviour,1069,2025,796865,ASB,1.3415,0.1816036336476947
+Dorset Police,2025-09,Bicycle theft,34,2025,796865,Recorded crime,0.0427,0.1816036336476947
+Dorset Police,2025-09,Burglary,161,2025,796865,Recorded crime,0.202,0.1816036336476947
+Dorset Police,2025-09,Criminal damage and arson,293,2025,796865,Recorded crime,0.3677,0.1816036336476947
+Dorset Police,2025-09,Drugs,99,2025,796865,Recorded crime,0.1242,0.1816036336476947
+Dorset Police,2025-09,Other crime,48,2025,796865,Recorded crime,0.0602,0.1816036336476947
+Dorset Police,2025-09,Other theft,237,2025,796865,Recorded crime,0.2974,0.1816036336476947
+Dorset Police,2025-09,Possession of weapons,18,2025,796865,Recorded crime,0.0226,0.1816036336476947
+Dorset Police,2025-09,Public order,181,2025,796865,Recorded crime,0.2271,0.1816036336476947
+Dorset Police,2025-09,Robbery,28,2025,796865,Recorded crime,0.0351,0.1816036336476947
+Dorset Police,2025-09,Shoplifting,395,2025,796865,Recorded crime,0.4957,0.1816036336476947
+Dorset Police,2025-09,Theft from the person,21,2025,796865,Recorded crime,0.0264,0.1816036336476947
+Dorset Police,2025-09,Vehicle crime,193,2025,796865,Recorded crime,0.2422,0.1816036336476947
+Dorset Police,2025-09,Violence and sexual offences,1438,2025,796865,Recorded crime,1.8046,0.1816036336476947
+Dorset Police,2025-10,Anti-social behaviour,1138,2025,796865,ASB,1.4281,0.1816036336476947
+Dorset Police,2025-10,Bicycle theft,47,2025,796865,Recorded crime,0.059,0.1816036336476947
+Dorset Police,2025-10,Burglary,188,2025,796865,Recorded crime,0.2359,0.1816036336476947
+Dorset Police,2025-10,Criminal damage and arson,310,2025,796865,Recorded crime,0.389,0.1816036336476947
+Dorset Police,2025-10,Drugs,100,2025,796865,Recorded crime,0.1255,0.1816036336476947
+Dorset Police,2025-10,Other crime,38,2025,796865,Recorded crime,0.0477,0.1816036336476947
+Dorset Police,2025-10,Other theft,301,2025,796865,Recorded crime,0.3777,0.1816036336476947
+Dorset Police,2025-10,Possession of weapons,21,2025,796865,Recorded crime,0.0264,0.1816036336476947
+Dorset Police,2025-10,Public order,193,2025,796865,Recorded crime,0.2422,0.1816036336476947
+Dorset Police,2025-10,Robbery,25,2025,796865,Recorded crime,0.0314,0.1816036336476947
+Dorset Police,2025-10,Shoplifting,304,2025,796865,Recorded crime,0.3815,0.1816036336476947
+Dorset Police,2025-10,Theft from the person,18,2025,796865,Recorded crime,0.0226,0.1816036336476947
+Dorset Police,2025-10,Vehicle crime,246,2025,796865,Recorded crime,0.3087,0.1816036336476947
+Dorset Police,2025-10,Violence and sexual offences,1487,2025,796865,Recorded crime,1.8661,0.1816036336476947
+Dorset Police,2025-11,Anti-social behaviour,945,2025,796865,ASB,1.1859,0.1816036336476947
+Dorset Police,2025-11,Bicycle theft,29,2025,796865,Recorded crime,0.0364,0.1816036336476947
+Dorset Police,2025-11,Burglary,149,2025,796865,Recorded crime,0.187,0.1816036336476947
+Dorset Police,2025-11,Criminal damage and arson,295,2025,796865,Recorded crime,0.3702,0.1816036336476947
+Dorset Police,2025-11,Drugs,104,2025,796865,Recorded crime,0.1305,0.1816036336476947
+Dorset Police,2025-11,Other crime,51,2025,796865,Recorded crime,0.064,0.1816036336476947
+Dorset Police,2025-11,Other theft,256,2025,796865,Recorded crime,0.3213,0.1816036336476947
+Dorset Police,2025-11,Possession of weapons,22,2025,796865,Recorded crime,0.0276,0.1816036336476947
+Dorset Police,2025-11,Public order,182,2025,796865,Recorded crime,0.2284,0.1816036336476947
+Dorset Police,2025-11,Robbery,31,2025,796865,Recorded crime,0.0389,0.1816036336476947
+Dorset Police,2025-11,Shoplifting,373,2025,796865,Recorded crime,0.4681,0.1816036336476947
+Dorset Police,2025-11,Theft from the person,23,2025,796865,Recorded crime,0.0289,0.1816036336476947
+Dorset Police,2025-11,Vehicle crime,212,2025,796865,Recorded crime,0.266,0.1816036336476947
+Dorset Police,2025-11,Violence and sexual offences,1376,2025,796865,Recorded crime,1.7268,0.1816036336476947
+Dorset Police,2025-12,Anti-social behaviour,829,2025,796865,ASB,1.0403,0.1816036336476947
+Dorset Police,2025-12,Bicycle theft,46,2025,796865,Recorded crime,0.0577,0.1816036336476947
+Dorset Police,2025-12,Burglary,162,2025,796865,Recorded crime,0.2033,0.1816036336476947
+Dorset Police,2025-12,Criminal damage and arson,345,2025,796865,Recorded crime,0.4329,0.1816036336476947
+Dorset Police,2025-12,Drugs,72,2025,796865,Recorded crime,0.0904,0.1816036336476947
+Dorset Police,2025-12,Other crime,49,2025,796865,Recorded crime,0.0615,0.1816036336476947
+Dorset Police,2025-12,Other theft,345,2025,796865,Recorded crime,0.4329,0.1816036336476947
+Dorset Police,2025-12,Possession of weapons,29,2025,796865,Recorded crime,0.0364,0.1816036336476947
+Dorset Police,2025-12,Public order,187,2025,796865,Recorded crime,0.2347,0.1816036336476947
+Dorset Police,2025-12,Robbery,33,2025,796865,Recorded crime,0.0414,0.1816036336476947
+Dorset Police,2025-12,Shoplifting,314,2025,796865,Recorded crime,0.394,0.1816036336476947
+Dorset Police,2025-12,Theft from the person,15,2025,796865,Recorded crime,0.0188,0.1816036336476947
+Dorset Police,2025-12,Vehicle crime,309,2025,796865,Recorded crime,0.3878,0.1816036336476947
+Dorset Police,2025-12,Violence and sexual offences,1497,2025,796865,Recorded crime,1.8786,0.1816036336476947
+Gloucestershire Constabulary,2024-01,Anti-social behaviour,718,2024,668109,ASB,1.0747,0.16412158745820987
+Gloucestershire Constabulary,2024-01,Bicycle theft,48,2024,668109,Recorded crime,0.0718,0.16412158745820987
+Gloucestershire Constabulary,2024-01,Burglary,247,2024,668109,Recorded crime,0.3697,0.16412158745820987
+Gloucestershire Constabulary,2024-01,Criminal damage and arson,335,2024,668109,Recorded crime,0.5014,0.16412158745820987
+Gloucestershire Constabulary,2024-01,Drugs,87,2024,668109,Recorded crime,0.1302,0.16412158745820987
+Gloucestershire Constabulary,2024-01,Other crime,142,2024,668109,Recorded crime,0.2125,0.16412158745820987
+Gloucestershire Constabulary,2024-01,Other theft,373,2024,668109,Recorded crime,0.5583,0.16412158745820987
+Gloucestershire Constabulary,2024-01,Possession of weapons,26,2024,668109,Recorded crime,0.0389,0.16412158745820987
+Gloucestershire Constabulary,2024-01,Public order,415,2024,668109,Recorded crime,0.6212,0.16412158745820987
+Gloucestershire Constabulary,2024-01,Robbery,27,2024,668109,Recorded crime,0.0404,0.16412158745820987
+Gloucestershire Constabulary,2024-01,Shoplifting,371,2024,668109,Recorded crime,0.5553,0.16412158745820987
+Gloucestershire Constabulary,2024-01,Theft from the person,17,2024,668109,Recorded crime,0.0254,0.16412158745820987
+Gloucestershire Constabulary,2024-01,Vehicle crime,241,2024,668109,Recorded crime,0.3607,0.16412158745820987
+Gloucestershire Constabulary,2024-01,Violence and sexual offences,1953,2024,668109,Recorded crime,2.9232,0.16412158745820987
+Gloucestershire Constabulary,2024-02,Anti-social behaviour,821,2024,668109,ASB,1.2288,0.16412158745820987
+Gloucestershire Constabulary,2024-02,Bicycle theft,55,2024,668109,Recorded crime,0.0823,0.16412158745820987
+Gloucestershire Constabulary,2024-02,Burglary,206,2024,668109,Recorded crime,0.3083,0.16412158745820987
+Gloucestershire Constabulary,2024-02,Criminal damage and arson,321,2024,668109,Recorded crime,0.4805,0.16412158745820987
+Gloucestershire Constabulary,2024-02,Drugs,77,2024,668109,Recorded crime,0.1153,0.16412158745820987
+Gloucestershire Constabulary,2024-02,Other crime,120,2024,668109,Recorded crime,0.1796,0.16412158745820987
+Gloucestershire Constabulary,2024-02,Other theft,335,2024,668109,Recorded crime,0.5014,0.16412158745820987
+Gloucestershire Constabulary,2024-02,Possession of weapons,18,2024,668109,Recorded crime,0.0269,0.16412158745820987
+Gloucestershire Constabulary,2024-02,Public order,370,2024,668109,Recorded crime,0.5538,0.16412158745820987
+Gloucestershire Constabulary,2024-02,Robbery,35,2024,668109,Recorded crime,0.0524,0.16412158745820987
+Gloucestershire Constabulary,2024-02,Shoplifting,319,2024,668109,Recorded crime,0.4775,0.16412158745820987
+Gloucestershire Constabulary,2024-02,Theft from the person,16,2024,668109,Recorded crime,0.0239,0.16412158745820987
+Gloucestershire Constabulary,2024-02,Vehicle crime,187,2024,668109,Recorded crime,0.2799,0.16412158745820987
+Gloucestershire Constabulary,2024-02,Violence and sexual offences,1749,2024,668109,Recorded crime,2.6178,0.16412158745820987
+Gloucestershire Constabulary,2024-03,Anti-social behaviour,991,2024,668109,ASB,1.4833,0.16412158745820987
+Gloucestershire Constabulary,2024-03,Bicycle theft,57,2024,668109,Recorded crime,0.0853,0.16412158745820987
+Gloucestershire Constabulary,2024-03,Burglary,206,2024,668109,Recorded crime,0.3083,0.16412158745820987
+Gloucestershire Constabulary,2024-03,Criminal damage and arson,314,2024,668109,Recorded crime,0.47,0.16412158745820987
+Gloucestershire Constabulary,2024-03,Drugs,114,2024,668109,Recorded crime,0.1706,0.16412158745820987
+Gloucestershire Constabulary,2024-03,Other crime,110,2024,668109,Recorded crime,0.1646,0.16412158745820987
+Gloucestershire Constabulary,2024-03,Other theft,327,2024,668109,Recorded crime,0.4894,0.16412158745820987
+Gloucestershire Constabulary,2024-03,Possession of weapons,39,2024,668109,Recorded crime,0.0584,0.16412158745820987
+Gloucestershire Constabulary,2024-03,Public order,414,2024,668109,Recorded crime,0.6197,0.16412158745820987
+Gloucestershire Constabulary,2024-03,Robbery,41,2024,668109,Recorded crime,0.0614,0.16412158745820987
+Gloucestershire Constabulary,2024-03,Shoplifting,372,2024,668109,Recorded crime,0.5568,0.16412158745820987
+Gloucestershire Constabulary,2024-03,Theft from the person,43,2024,668109,Recorded crime,0.0644,0.16412158745820987
+Gloucestershire Constabulary,2024-03,Vehicle crime,203,2024,668109,Recorded crime,0.3038,0.16412158745820987
+Gloucestershire Constabulary,2024-03,Violence and sexual offences,1858,2024,668109,Recorded crime,2.781,0.16412158745820987
+Gloucestershire Constabulary,2024-04,Anti-social behaviour,994,2024,668109,ASB,1.4878,0.16412158745820987
+Gloucestershire Constabulary,2024-04,Bicycle theft,36,2024,668109,Recorded crime,0.0539,0.16412158745820987
+Gloucestershire Constabulary,2024-04,Burglary,203,2024,668109,Recorded crime,0.3038,0.16412158745820987
+Gloucestershire Constabulary,2024-04,Criminal damage and arson,337,2024,668109,Recorded crime,0.5044,0.16412158745820987
+Gloucestershire Constabulary,2024-04,Drugs,81,2024,668109,Recorded crime,0.1212,0.16412158745820987
+Gloucestershire Constabulary,2024-04,Other crime,121,2024,668109,Recorded crime,0.1811,0.16412158745820987
+Gloucestershire Constabulary,2024-04,Other theft,343,2024,668109,Recorded crime,0.5134,0.16412158745820987
+Gloucestershire Constabulary,2024-04,Possession of weapons,40,2024,668109,Recorded crime,0.0599,0.16412158745820987
+Gloucestershire Constabulary,2024-04,Public order,391,2024,668109,Recorded crime,0.5852,0.16412158745820987
+Gloucestershire Constabulary,2024-04,Robbery,33,2024,668109,Recorded crime,0.0494,0.16412158745820987
+Gloucestershire Constabulary,2024-04,Shoplifting,387,2024,668109,Recorded crime,0.5792,0.16412158745820987
+Gloucestershire Constabulary,2024-04,Theft from the person,23,2024,668109,Recorded crime,0.0344,0.16412158745820987
+Gloucestershire Constabulary,2024-04,Vehicle crime,206,2024,668109,Recorded crime,0.3083,0.16412158745820987
+Gloucestershire Constabulary,2024-04,Violence and sexual offences,1956,2024,668109,Recorded crime,2.9277,0.16412158745820987
+Gloucestershire Constabulary,2024-05,Anti-social behaviour,1190,2024,668109,ASB,1.7811,0.16412158745820987
+Gloucestershire Constabulary,2024-05,Bicycle theft,60,2024,668109,Recorded crime,0.0898,0.16412158745820987
+Gloucestershire Constabulary,2024-05,Burglary,195,2024,668109,Recorded crime,0.2919,0.16412158745820987
+Gloucestershire Constabulary,2024-05,Criminal damage and arson,303,2024,668109,Recorded crime,0.4535,0.16412158745820987
+Gloucestershire Constabulary,2024-05,Drugs,80,2024,668109,Recorded crime,0.1197,0.16412158745820987
+Gloucestershire Constabulary,2024-05,Other crime,158,2024,668109,Recorded crime,0.2365,0.16412158745820987
+Gloucestershire Constabulary,2024-05,Other theft,336,2024,668109,Recorded crime,0.5029,0.16412158745820987
+Gloucestershire Constabulary,2024-05,Possession of weapons,29,2024,668109,Recorded crime,0.0434,0.16412158745820987
+Gloucestershire Constabulary,2024-05,Public order,442,2024,668109,Recorded crime,0.6616,0.16412158745820987
+Gloucestershire Constabulary,2024-05,Robbery,33,2024,668109,Recorded crime,0.0494,0.16412158745820987
+Gloucestershire Constabulary,2024-05,Shoplifting,388,2024,668109,Recorded crime,0.5807,0.16412158745820987
+Gloucestershire Constabulary,2024-05,Theft from the person,20,2024,668109,Recorded crime,0.0299,0.16412158745820987
+Gloucestershire Constabulary,2024-05,Vehicle crime,156,2024,668109,Recorded crime,0.2335,0.16412158745820987
+Gloucestershire Constabulary,2024-05,Violence and sexual offences,1962,2024,668109,Recorded crime,2.9366,0.16412158745820987
+Gloucestershire Constabulary,2024-06,Anti-social behaviour,1096,2024,668109,ASB,1.6405,0.16412158745820987
+Gloucestershire Constabulary,2024-06,Bicycle theft,49,2024,668109,Recorded crime,0.0733,0.16412158745820987
+Gloucestershire Constabulary,2024-06,Burglary,179,2024,668109,Recorded crime,0.2679,0.16412158745820987
+Gloucestershire Constabulary,2024-06,Criminal damage and arson,356,2024,668109,Recorded crime,0.5328,0.16412158745820987
+Gloucestershire Constabulary,2024-06,Drugs,104,2024,668109,Recorded crime,0.1557,0.16412158745820987
+Gloucestershire Constabulary,2024-06,Other crime,127,2024,668109,Recorded crime,0.1901,0.16412158745820987
+Gloucestershire Constabulary,2024-06,Other theft,344,2024,668109,Recorded crime,0.5149,0.16412158745820987
+Gloucestershire Constabulary,2024-06,Possession of weapons,42,2024,668109,Recorded crime,0.0629,0.16412158745820987
+Gloucestershire Constabulary,2024-06,Public order,373,2024,668109,Recorded crime,0.5583,0.16412158745820987
+Gloucestershire Constabulary,2024-06,Robbery,40,2024,668109,Recorded crime,0.0599,0.16412158745820987
+Gloucestershire Constabulary,2024-06,Shoplifting,373,2024,668109,Recorded crime,0.5583,0.16412158745820987
+Gloucestershire Constabulary,2024-06,Theft from the person,15,2024,668109,Recorded crime,0.0225,0.16412158745820987
+Gloucestershire Constabulary,2024-06,Vehicle crime,174,2024,668109,Recorded crime,0.2604,0.16412158745820987
+Gloucestershire Constabulary,2024-06,Violence and sexual offences,1818,2024,668109,Recorded crime,2.7211,0.16412158745820987
+Gloucestershire Constabulary,2024-07,Anti-social behaviour,1018,2024,668109,ASB,1.5237,0.16412158745820987
+Gloucestershire Constabulary,2024-07,Bicycle theft,38,2024,668109,Recorded crime,0.0569,0.16412158745820987
+Gloucestershire Constabulary,2024-07,Burglary,198,2024,668109,Recorded crime,0.2964,0.16412158745820987
+Gloucestershire Constabulary,2024-07,Criminal damage and arson,331,2024,668109,Recorded crime,0.4954,0.16412158745820987
+Gloucestershire Constabulary,2024-07,Drugs,92,2024,668109,Recorded crime,0.1377,0.16412158745820987
+Gloucestershire Constabulary,2024-07,Other crime,148,2024,668109,Recorded crime,0.2215,0.16412158745820987
+Gloucestershire Constabulary,2024-07,Other theft,334,2024,668109,Recorded crime,0.4999,0.16412158745820987
+Gloucestershire Constabulary,2024-07,Possession of weapons,43,2024,668109,Recorded crime,0.0644,0.16412158745820987
+Gloucestershire Constabulary,2024-07,Public order,375,2024,668109,Recorded crime,0.5613,0.16412158745820987
+Gloucestershire Constabulary,2024-07,Robbery,37,2024,668109,Recorded crime,0.0554,0.16412158745820987
+Gloucestershire Constabulary,2024-07,Shoplifting,352,2024,668109,Recorded crime,0.5269,0.16412158745820987
+Gloucestershire Constabulary,2024-07,Theft from the person,43,2024,668109,Recorded crime,0.0644,0.16412158745820987
+Gloucestershire Constabulary,2024-07,Vehicle crime,175,2024,668109,Recorded crime,0.2619,0.16412158745820987
+Gloucestershire Constabulary,2024-07,Violence and sexual offences,1868,2024,668109,Recorded crime,2.796,0.16412158745820987
+Gloucestershire Constabulary,2024-08,Anti-social behaviour,1118,2024,668109,ASB,1.6734,0.16412158745820987
+Gloucestershire Constabulary,2024-08,Bicycle theft,47,2024,668109,Recorded crime,0.0703,0.16412158745820987
+Gloucestershire Constabulary,2024-08,Burglary,190,2024,668109,Recorded crime,0.2844,0.16412158745820987
+Gloucestershire Constabulary,2024-08,Criminal damage and arson,361,2024,668109,Recorded crime,0.5403,0.16412158745820987
+Gloucestershire Constabulary,2024-08,Drugs,93,2024,668109,Recorded crime,0.1392,0.16412158745820987
+Gloucestershire Constabulary,2024-08,Other crime,119,2024,668109,Recorded crime,0.1781,0.16412158745820987
+Gloucestershire Constabulary,2024-08,Other theft,303,2024,668109,Recorded crime,0.4535,0.16412158745820987
+Gloucestershire Constabulary,2024-08,Possession of weapons,42,2024,668109,Recorded crime,0.0629,0.16412158745820987
+Gloucestershire Constabulary,2024-08,Public order,382,2024,668109,Recorded crime,0.5718,0.16412158745820987
+Gloucestershire Constabulary,2024-08,Robbery,38,2024,668109,Recorded crime,0.0569,0.16412158745820987
+Gloucestershire Constabulary,2024-08,Shoplifting,358,2024,668109,Recorded crime,0.5358,0.16412158745820987
+Gloucestershire Constabulary,2024-08,Theft from the person,15,2024,668109,Recorded crime,0.0225,0.16412158745820987
+Gloucestershire Constabulary,2024-08,Vehicle crime,172,2024,668109,Recorded crime,0.2574,0.16412158745820987
+Gloucestershire Constabulary,2024-08,Violence and sexual offences,1861,2024,668109,Recorded crime,2.7855,0.16412158745820987
+Gloucestershire Constabulary,2024-09,Anti-social behaviour,948,2024,668109,ASB,1.4189,0.16412158745820987
+Gloucestershire Constabulary,2024-09,Bicycle theft,49,2024,668109,Recorded crime,0.0733,0.16412158745820987
+Gloucestershire Constabulary,2024-09,Burglary,158,2024,668109,Recorded crime,0.2365,0.16412158745820987
+Gloucestershire Constabulary,2024-09,Criminal damage and arson,312,2024,668109,Recorded crime,0.467,0.16412158745820987
+Gloucestershire Constabulary,2024-09,Drugs,79,2024,668109,Recorded crime,0.1182,0.16412158745820987
+Gloucestershire Constabulary,2024-09,Other crime,136,2024,668109,Recorded crime,0.2036,0.16412158745820987
+Gloucestershire Constabulary,2024-09,Other theft,288,2024,668109,Recorded crime,0.4311,0.16412158745820987
+Gloucestershire Constabulary,2024-09,Possession of weapons,41,2024,668109,Recorded crime,0.0614,0.16412158745820987
+Gloucestershire Constabulary,2024-09,Public order,370,2024,668109,Recorded crime,0.5538,0.16412158745820987
+Gloucestershire Constabulary,2024-09,Robbery,27,2024,668109,Recorded crime,0.0404,0.16412158745820987
+Gloucestershire Constabulary,2024-09,Shoplifting,344,2024,668109,Recorded crime,0.5149,0.16412158745820987
+Gloucestershire Constabulary,2024-09,Theft from the person,12,2024,668109,Recorded crime,0.018,0.16412158745820987
+Gloucestershire Constabulary,2024-09,Vehicle crime,154,2024,668109,Recorded crime,0.2305,0.16412158745820987
+Gloucestershire Constabulary,2024-09,Violence and sexual offences,1724,2024,668109,Recorded crime,2.5804,0.16412158745820987
+Gloucestershire Constabulary,2024-10,Anti-social behaviour,997,2024,668109,ASB,1.4923,0.16412158745820987
+Gloucestershire Constabulary,2024-10,Bicycle theft,62,2024,668109,Recorded crime,0.0928,0.16412158745820987
+Gloucestershire Constabulary,2024-10,Burglary,165,2024,668109,Recorded crime,0.247,0.16412158745820987
+Gloucestershire Constabulary,2024-10,Criminal damage and arson,261,2024,668109,Recorded crime,0.3907,0.16412158745820987
+Gloucestershire Constabulary,2024-10,Drugs,115,2024,668109,Recorded crime,0.1721,0.16412158745820987
+Gloucestershire Constabulary,2024-10,Other crime,143,2024,668109,Recorded crime,0.214,0.16412158745820987
+Gloucestershire Constabulary,2024-10,Other theft,353,2024,668109,Recorded crime,0.5284,0.16412158745820987
+Gloucestershire Constabulary,2024-10,Possession of weapons,36,2024,668109,Recorded crime,0.0539,0.16412158745820987
+Gloucestershire Constabulary,2024-10,Public order,379,2024,668109,Recorded crime,0.5673,0.16412158745820987
+Gloucestershire Constabulary,2024-10,Robbery,37,2024,668109,Recorded crime,0.0554,0.16412158745820987
+Gloucestershire Constabulary,2024-10,Shoplifting,406,2024,668109,Recorded crime,0.6077,0.16412158745820987
+Gloucestershire Constabulary,2024-10,Theft from the person,20,2024,668109,Recorded crime,0.0299,0.16412158745820987
+Gloucestershire Constabulary,2024-10,Vehicle crime,232,2024,668109,Recorded crime,0.3472,0.16412158745820987
+Gloucestershire Constabulary,2024-10,Violence and sexual offences,1767,2024,668109,Recorded crime,2.6448,0.16412158745820987
+Gloucestershire Constabulary,2024-11,Anti-social behaviour,915,2024,668109,ASB,1.3695,0.16412158745820987
+Gloucestershire Constabulary,2024-11,Bicycle theft,69,2024,668109,Recorded crime,0.1033,0.16412158745820987
+Gloucestershire Constabulary,2024-11,Burglary,176,2024,668109,Recorded crime,0.2634,0.16412158745820987
+Gloucestershire Constabulary,2024-11,Criminal damage and arson,242,2024,668109,Recorded crime,0.3622,0.16412158745820987
+Gloucestershire Constabulary,2024-11,Drugs,102,2024,668109,Recorded crime,0.1527,0.16412158745820987
+Gloucestershire Constabulary,2024-11,Other crime,146,2024,668109,Recorded crime,0.2185,0.16412158745820987
+Gloucestershire Constabulary,2024-11,Other theft,289,2024,668109,Recorded crime,0.4326,0.16412158745820987
+Gloucestershire Constabulary,2024-11,Possession of weapons,34,2024,668109,Recorded crime,0.0509,0.16412158745820987
+Gloucestershire Constabulary,2024-11,Public order,354,2024,668109,Recorded crime,0.5299,0.16412158745820987
+Gloucestershire Constabulary,2024-11,Robbery,26,2024,668109,Recorded crime,0.0389,0.16412158745820987
+Gloucestershire Constabulary,2024-11,Shoplifting,381,2024,668109,Recorded crime,0.5703,0.16412158745820987
+Gloucestershire Constabulary,2024-11,Theft from the person,6,2024,668109,Recorded crime,0.009,0.16412158745820987
+Gloucestershire Constabulary,2024-11,Vehicle crime,188,2024,668109,Recorded crime,0.2814,0.16412158745820987
+Gloucestershire Constabulary,2024-11,Violence and sexual offences,1679,2024,668109,Recorded crime,2.5131,0.16412158745820987
+Gloucestershire Constabulary,2024-12,Anti-social behaviour,726,2024,668109,ASB,1.0866,0.16412158745820987
+Gloucestershire Constabulary,2024-12,Bicycle theft,37,2024,668109,Recorded crime,0.0554,0.16412158745820987
+Gloucestershire Constabulary,2024-12,Burglary,199,2024,668109,Recorded crime,0.2979,0.16412158745820987
+Gloucestershire Constabulary,2024-12,Criminal damage and arson,263,2024,668109,Recorded crime,0.3936,0.16412158745820987
+Gloucestershire Constabulary,2024-12,Drugs,103,2024,668109,Recorded crime,0.1542,0.16412158745820987
+Gloucestershire Constabulary,2024-12,Other crime,100,2024,668109,Recorded crime,0.1497,0.16412158745820987
+Gloucestershire Constabulary,2024-12,Other theft,290,2024,668109,Recorded crime,0.4341,0.16412158745820987
+Gloucestershire Constabulary,2024-12,Possession of weapons,34,2024,668109,Recorded crime,0.0509,0.16412158745820987
+Gloucestershire Constabulary,2024-12,Public order,306,2024,668109,Recorded crime,0.458,0.16412158745820987
+Gloucestershire Constabulary,2024-12,Robbery,21,2024,668109,Recorded crime,0.0314,0.16412158745820987
+Gloucestershire Constabulary,2024-12,Shoplifting,261,2024,668109,Recorded crime,0.3907,0.16412158745820987
+Gloucestershire Constabulary,2024-12,Theft from the person,18,2024,668109,Recorded crime,0.0269,0.16412158745820987
+Gloucestershire Constabulary,2024-12,Vehicle crime,193,2024,668109,Recorded crime,0.2889,0.16412158745820987
+Gloucestershire Constabulary,2024-12,Violence and sexual offences,1713,2024,668109,Recorded crime,2.564,0.16412158745820987
+Gloucestershire Constabulary,2025-01,Anti-social behaviour,847,2025,671908,ASB,1.2606,0.16412158745820987
+Gloucestershire Constabulary,2025-01,Bicycle theft,41,2025,671908,Recorded crime,0.061,0.16412158745820987
+Gloucestershire Constabulary,2025-01,Burglary,207,2025,671908,Recorded crime,0.3081,0.16412158745820987
+Gloucestershire Constabulary,2025-01,Criminal damage and arson,251,2025,671908,Recorded crime,0.3736,0.16412158745820987
+Gloucestershire Constabulary,2025-01,Drugs,108,2025,671908,Recorded crime,0.1607,0.16412158745820987
+Gloucestershire Constabulary,2025-01,Other crime,167,2025,671908,Recorded crime,0.2485,0.16412158745820987
+Gloucestershire Constabulary,2025-01,Other theft,249,2025,671908,Recorded crime,0.3706,0.16412158745820987
+Gloucestershire Constabulary,2025-01,Possession of weapons,25,2025,671908,Recorded crime,0.0372,0.16412158745820987
+Gloucestershire Constabulary,2025-01,Public order,338,2025,671908,Recorded crime,0.503,0.16412158745820987
+Gloucestershire Constabulary,2025-01,Robbery,36,2025,671908,Recorded crime,0.0536,0.16412158745820987
+Gloucestershire Constabulary,2025-01,Shoplifting,311,2025,671908,Recorded crime,0.4629,0.16412158745820987
+Gloucestershire Constabulary,2025-01,Theft from the person,16,2025,671908,Recorded crime,0.0238,0.16412158745820987
+Gloucestershire Constabulary,2025-01,Vehicle crime,191,2025,671908,Recorded crime,0.2843,0.16412158745820987
+Gloucestershire Constabulary,2025-01,Violence and sexual offences,1698,2025,671908,Recorded crime,2.5271,0.16412158745820987
+Gloucestershire Constabulary,2025-02,Anti-social behaviour,771,2025,671908,ASB,1.1475,0.16412158745820987
+Gloucestershire Constabulary,2025-02,Bicycle theft,42,2025,671908,Recorded crime,0.0625,0.16412158745820987
+Gloucestershire Constabulary,2025-02,Burglary,195,2025,671908,Recorded crime,0.2902,0.16412158745820987
+Gloucestershire Constabulary,2025-02,Criminal damage and arson,241,2025,671908,Recorded crime,0.3587,0.16412158745820987
+Gloucestershire Constabulary,2025-02,Drugs,100,2025,671908,Recorded crime,0.1488,0.16412158745820987
+Gloucestershire Constabulary,2025-02,Other crime,134,2025,671908,Recorded crime,0.1994,0.16412158745820987
+Gloucestershire Constabulary,2025-02,Other theft,278,2025,671908,Recorded crime,0.4137,0.16412158745820987
+Gloucestershire Constabulary,2025-02,Possession of weapons,24,2025,671908,Recorded crime,0.0357,0.16412158745820987
+Gloucestershire Constabulary,2025-02,Public order,294,2025,671908,Recorded crime,0.4376,0.16412158745820987
+Gloucestershire Constabulary,2025-02,Robbery,20,2025,671908,Recorded crime,0.0298,0.16412158745820987
+Gloucestershire Constabulary,2025-02,Shoplifting,299,2025,671908,Recorded crime,0.445,0.16412158745820987
+Gloucestershire Constabulary,2025-02,Theft from the person,16,2025,671908,Recorded crime,0.0238,0.16412158745820987
+Gloucestershire Constabulary,2025-02,Vehicle crime,202,2025,671908,Recorded crime,0.3006,0.16412158745820987
+Gloucestershire Constabulary,2025-02,Violence and sexual offences,1618,2025,671908,Recorded crime,2.4081,0.16412158745820987
+Gloucestershire Constabulary,2025-03,Anti-social behaviour,1137,2025,671908,ASB,1.6922,0.16412158745820987
+Gloucestershire Constabulary,2025-03,Bicycle theft,37,2025,671908,Recorded crime,0.0551,0.16412158745820987
+Gloucestershire Constabulary,2025-03,Burglary,171,2025,671908,Recorded crime,0.2545,0.16412158745820987
+Gloucestershire Constabulary,2025-03,Criminal damage and arson,355,2025,671908,Recorded crime,0.5283,0.16412158745820987
+Gloucestershire Constabulary,2025-03,Drugs,112,2025,671908,Recorded crime,0.1667,0.16412158745820987
+Gloucestershire Constabulary,2025-03,Other crime,169,2025,671908,Recorded crime,0.2515,0.16412158745820987
+Gloucestershire Constabulary,2025-03,Other theft,301,2025,671908,Recorded crime,0.448,0.16412158745820987
+Gloucestershire Constabulary,2025-03,Possession of weapons,43,2025,671908,Recorded crime,0.064,0.16412158745820987
+Gloucestershire Constabulary,2025-03,Public order,332,2025,671908,Recorded crime,0.4941,0.16412158745820987
+Gloucestershire Constabulary,2025-03,Robbery,33,2025,671908,Recorded crime,0.0491,0.16412158745820987
+Gloucestershire Constabulary,2025-03,Shoplifting,398,2025,671908,Recorded crime,0.5923,0.16412158745820987
+Gloucestershire Constabulary,2025-03,Theft from the person,33,2025,671908,Recorded crime,0.0491,0.16412158745820987
+Gloucestershire Constabulary,2025-03,Vehicle crime,231,2025,671908,Recorded crime,0.3438,0.16412158745820987
+Gloucestershire Constabulary,2025-03,Violence and sexual offences,1834,2025,671908,Recorded crime,2.7295,0.16412158745820987
+Gloucestershire Constabulary,2025-04,Anti-social behaviour,1030,2025,671908,ASB,1.5329,0.16412158745820987
+Gloucestershire Constabulary,2025-04,Bicycle theft,59,2025,671908,Recorded crime,0.0878,0.16412158745820987
+Gloucestershire Constabulary,2025-04,Burglary,164,2025,671908,Recorded crime,0.2441,0.16412158745820987
+Gloucestershire Constabulary,2025-04,Criminal damage and arson,311,2025,671908,Recorded crime,0.4629,0.16412158745820987
+Gloucestershire Constabulary,2025-04,Drugs,108,2025,671908,Recorded crime,0.1607,0.16412158745820987
+Gloucestershire Constabulary,2025-04,Other crime,144,2025,671908,Recorded crime,0.2143,0.16412158745820987
+Gloucestershire Constabulary,2025-04,Other theft,247,2025,671908,Recorded crime,0.3676,0.16412158745820987
+Gloucestershire Constabulary,2025-04,Possession of weapons,27,2025,671908,Recorded crime,0.0402,0.16412158745820987
+Gloucestershire Constabulary,2025-04,Public order,333,2025,671908,Recorded crime,0.4956,0.16412158745820987
+Gloucestershire Constabulary,2025-04,Robbery,47,2025,671908,Recorded crime,0.07,0.16412158745820987
+Gloucestershire Constabulary,2025-04,Shoplifting,399,2025,671908,Recorded crime,0.5938,0.16412158745820987
+Gloucestershire Constabulary,2025-04,Theft from the person,12,2025,671908,Recorded crime,0.0179,0.16412158745820987
+Gloucestershire Constabulary,2025-04,Vehicle crime,252,2025,671908,Recorded crime,0.3751,0.16412158745820987
+Gloucestershire Constabulary,2025-04,Violence and sexual offences,1670,2025,671908,Recorded crime,2.4855,0.16412158745820987
+Gloucestershire Constabulary,2025-05,Anti-social behaviour,1187,2025,671908,ASB,1.7666,0.16412158745820987
+Gloucestershire Constabulary,2025-05,Bicycle theft,48,2025,671908,Recorded crime,0.0714,0.16412158745820987
+Gloucestershire Constabulary,2025-05,Burglary,184,2025,671908,Recorded crime,0.2738,0.16412158745820987
+Gloucestershire Constabulary,2025-05,Criminal damage and arson,346,2025,671908,Recorded crime,0.515,0.16412158745820987
+Gloucestershire Constabulary,2025-05,Drugs,100,2025,671908,Recorded crime,0.1488,0.16412158745820987
+Gloucestershire Constabulary,2025-05,Other crime,136,2025,671908,Recorded crime,0.2024,0.16412158745820987
+Gloucestershire Constabulary,2025-05,Other theft,332,2025,671908,Recorded crime,0.4941,0.16412158745820987
+Gloucestershire Constabulary,2025-05,Possession of weapons,35,2025,671908,Recorded crime,0.0521,0.16412158745820987
+Gloucestershire Constabulary,2025-05,Public order,441,2025,671908,Recorded crime,0.6563,0.16412158745820987
+Gloucestershire Constabulary,2025-05,Robbery,50,2025,671908,Recorded crime,0.0744,0.16412158745820987
+Gloucestershire Constabulary,2025-05,Shoplifting,424,2025,671908,Recorded crime,0.631,0.16412158745820987
+Gloucestershire Constabulary,2025-05,Theft from the person,18,2025,671908,Recorded crime,0.0268,0.16412158745820987
+Gloucestershire Constabulary,2025-05,Vehicle crime,160,2025,671908,Recorded crime,0.2381,0.16412158745820987
+Gloucestershire Constabulary,2025-05,Violence and sexual offences,1916,2025,671908,Recorded crime,2.8516,0.16412158745820987
+Gloucestershire Constabulary,2025-06,Anti-social behaviour,1288,2025,671908,ASB,1.9169,0.16412158745820987
+Gloucestershire Constabulary,2025-06,Bicycle theft,74,2025,671908,Recorded crime,0.1101,0.16412158745820987
+Gloucestershire Constabulary,2025-06,Burglary,208,2025,671908,Recorded crime,0.3096,0.16412158745820987
+Gloucestershire Constabulary,2025-06,Criminal damage and arson,305,2025,671908,Recorded crime,0.4539,0.16412158745820987
+Gloucestershire Constabulary,2025-06,Drugs,106,2025,671908,Recorded crime,0.1578,0.16412158745820987
+Gloucestershire Constabulary,2025-06,Other crime,128,2025,671908,Recorded crime,0.1905,0.16412158745820987
+Gloucestershire Constabulary,2025-06,Other theft,299,2025,671908,Recorded crime,0.445,0.16412158745820987
+Gloucestershire Constabulary,2025-06,Possession of weapons,41,2025,671908,Recorded crime,0.061,0.16412158745820987
+Gloucestershire Constabulary,2025-06,Public order,355,2025,671908,Recorded crime,0.5283,0.16412158745820987
+Gloucestershire Constabulary,2025-06,Robbery,44,2025,671908,Recorded crime,0.0655,0.16412158745820987
+Gloucestershire Constabulary,2025-06,Shoplifting,350,2025,671908,Recorded crime,0.5209,0.16412158745820987
+Gloucestershire Constabulary,2025-06,Theft from the person,13,2025,671908,Recorded crime,0.0193,0.16412158745820987
+Gloucestershire Constabulary,2025-06,Vehicle crime,150,2025,671908,Recorded crime,0.2232,0.16412158745820987
+Gloucestershire Constabulary,2025-06,Violence and sexual offences,1994,2025,671908,Recorded crime,2.9677,0.16412158745820987
+Gloucestershire Constabulary,2025-07,Anti-social behaviour,1362,2025,671908,ASB,2.0271,0.16412158745820987
+Gloucestershire Constabulary,2025-07,Bicycle theft,58,2025,671908,Recorded crime,0.0863,0.16412158745820987
+Gloucestershire Constabulary,2025-07,Burglary,162,2025,671908,Recorded crime,0.2411,0.16412158745820987
+Gloucestershire Constabulary,2025-07,Criminal damage and arson,360,2025,671908,Recorded crime,0.5358,0.16412158745820987
+Gloucestershire Constabulary,2025-07,Drugs,95,2025,671908,Recorded crime,0.1414,0.16412158745820987
+Gloucestershire Constabulary,2025-07,Other crime,96,2025,671908,Recorded crime,0.1429,0.16412158745820987
+Gloucestershire Constabulary,2025-07,Other theft,321,2025,671908,Recorded crime,0.4777,0.16412158745820987
+Gloucestershire Constabulary,2025-07,Possession of weapons,43,2025,671908,Recorded crime,0.064,0.16412158745820987
+Gloucestershire Constabulary,2025-07,Public order,371,2025,671908,Recorded crime,0.5522,0.16412158745820987
+Gloucestershire Constabulary,2025-07,Robbery,41,2025,671908,Recorded crime,0.061,0.16412158745820987
+Gloucestershire Constabulary,2025-07,Shoplifting,314,2025,671908,Recorded crime,0.4673,0.16412158745820987
+Gloucestershire Constabulary,2025-07,Theft from the person,19,2025,671908,Recorded crime,0.0283,0.16412158745820987
+Gloucestershire Constabulary,2025-07,Vehicle crime,187,2025,671908,Recorded crime,0.2783,0.16412158745820987
+Gloucestershire Constabulary,2025-07,Violence and sexual offences,1863,2025,671908,Recorded crime,2.7727,0.16412158745820987
+Gloucestershire Constabulary,2025-08,Anti-social behaviour,1189,2025,671908,ASB,1.7696,0.16412158745820987
+Gloucestershire Constabulary,2025-08,Bicycle theft,59,2025,671908,Recorded crime,0.0878,0.16412158745820987
+Gloucestershire Constabulary,2025-08,Burglary,164,2025,671908,Recorded crime,0.2441,0.16412158745820987
+Gloucestershire Constabulary,2025-08,Criminal damage and arson,364,2025,671908,Recorded crime,0.5417,0.16412158745820987
+Gloucestershire Constabulary,2025-08,Drugs,96,2025,671908,Recorded crime,0.1429,0.16412158745820987
+Gloucestershire Constabulary,2025-08,Other crime,102,2025,671908,Recorded crime,0.1518,0.16412158745820987
+Gloucestershire Constabulary,2025-08,Other theft,309,2025,671908,Recorded crime,0.4599,0.16412158745820987
+Gloucestershire Constabulary,2025-08,Possession of weapons,69,2025,671908,Recorded crime,0.1027,0.16412158745820987
+Gloucestershire Constabulary,2025-08,Public order,343,2025,671908,Recorded crime,0.5105,0.16412158745820987
+Gloucestershire Constabulary,2025-08,Robbery,47,2025,671908,Recorded crime,0.07,0.16412158745820987
+Gloucestershire Constabulary,2025-08,Shoplifting,370,2025,671908,Recorded crime,0.5507,0.16412158745820987
+Gloucestershire Constabulary,2025-08,Theft from the person,19,2025,671908,Recorded crime,0.0283,0.16412158745820987
+Gloucestershire Constabulary,2025-08,Vehicle crime,217,2025,671908,Recorded crime,0.323,0.16412158745820987
+Gloucestershire Constabulary,2025-08,Violence and sexual offences,1851,2025,671908,Recorded crime,2.7548,0.16412158745820987
+Gloucestershire Constabulary,2025-09,Anti-social behaviour,940,2025,671908,ASB,1.399,0.16412158745820987
+Gloucestershire Constabulary,2025-09,Bicycle theft,50,2025,671908,Recorded crime,0.0744,0.16412158745820987
+Gloucestershire Constabulary,2025-09,Burglary,157,2025,671908,Recorded crime,0.2337,0.16412158745820987
+Gloucestershire Constabulary,2025-09,Criminal damage and arson,283,2025,671908,Recorded crime,0.4212,0.16412158745820987
+Gloucestershire Constabulary,2025-09,Drugs,99,2025,671908,Recorded crime,0.1473,0.16412158745820987
+Gloucestershire Constabulary,2025-09,Other crime,124,2025,671908,Recorded crime,0.1845,0.16412158745820987
+Gloucestershire Constabulary,2025-09,Other theft,274,2025,671908,Recorded crime,0.4078,0.16412158745820987
+Gloucestershire Constabulary,2025-09,Possession of weapons,42,2025,671908,Recorded crime,0.0625,0.16412158745820987
+Gloucestershire Constabulary,2025-09,Public order,327,2025,671908,Recorded crime,0.4867,0.16412158745820987
+Gloucestershire Constabulary,2025-09,Robbery,51,2025,671908,Recorded crime,0.0759,0.16412158745820987
+Gloucestershire Constabulary,2025-09,Shoplifting,385,2025,671908,Recorded crime,0.573,0.16412158745820987
+Gloucestershire Constabulary,2025-09,Theft from the person,17,2025,671908,Recorded crime,0.0253,0.16412158745820987
+Gloucestershire Constabulary,2025-09,Vehicle crime,173,2025,671908,Recorded crime,0.2575,0.16412158745820987
+Gloucestershire Constabulary,2025-09,Violence and sexual offences,1812,2025,671908,Recorded crime,2.6968,0.16412158745820987
+Gloucestershire Constabulary,2025-10,Anti-social behaviour,933,2025,671908,ASB,1.3886,0.16412158745820987
+Gloucestershire Constabulary,2025-10,Bicycle theft,68,2025,671908,Recorded crime,0.1012,0.16412158745820987
+Gloucestershire Constabulary,2025-10,Burglary,178,2025,671908,Recorded crime,0.2649,0.16412158745820987
+Gloucestershire Constabulary,2025-10,Criminal damage and arson,316,2025,671908,Recorded crime,0.4703,0.16412158745820987
+Gloucestershire Constabulary,2025-10,Drugs,108,2025,671908,Recorded crime,0.1607,0.16412158745820987
+Gloucestershire Constabulary,2025-10,Other crime,135,2025,671908,Recorded crime,0.2009,0.16412158745820987
+Gloucestershire Constabulary,2025-10,Other theft,296,2025,671908,Recorded crime,0.4405,0.16412158745820987
+Gloucestershire Constabulary,2025-10,Possession of weapons,35,2025,671908,Recorded crime,0.0521,0.16412158745820987
+Gloucestershire Constabulary,2025-10,Public order,355,2025,671908,Recorded crime,0.5283,0.16412158745820987
+Gloucestershire Constabulary,2025-10,Robbery,53,2025,671908,Recorded crime,0.0789,0.16412158745820987
+Gloucestershire Constabulary,2025-10,Shoplifting,380,2025,671908,Recorded crime,0.5656,0.16412158745820987
+Gloucestershire Constabulary,2025-10,Theft from the person,15,2025,671908,Recorded crime,0.0223,0.16412158745820987
+Gloucestershire Constabulary,2025-10,Vehicle crime,199,2025,671908,Recorded crime,0.2962,0.16412158745820987
+Gloucestershire Constabulary,2025-10,Violence and sexual offences,1798,2025,671908,Recorded crime,2.676,0.16412158745820987
+Gloucestershire Constabulary,2025-11,Anti-social behaviour,936,2025,671908,ASB,1.393,0.16412158745820987
+Gloucestershire Constabulary,2025-11,Bicycle theft,51,2025,671908,Recorded crime,0.0759,0.16412158745820987
+Gloucestershire Constabulary,2025-11,Burglary,235,2025,671908,Recorded crime,0.3498,0.16412158745820987
+Gloucestershire Constabulary,2025-11,Criminal damage and arson,287,2025,671908,Recorded crime,0.4271,0.16412158745820987
+Gloucestershire Constabulary,2025-11,Drugs,91,2025,671908,Recorded crime,0.1354,0.16412158745820987
+Gloucestershire Constabulary,2025-11,Other crime,115,2025,671908,Recorded crime,0.1712,0.16412158745820987
+Gloucestershire Constabulary,2025-11,Other theft,266,2025,671908,Recorded crime,0.3959,0.16412158745820987
+Gloucestershire Constabulary,2025-11,Possession of weapons,47,2025,671908,Recorded crime,0.07,0.16412158745820987
+Gloucestershire Constabulary,2025-11,Public order,276,2025,671908,Recorded crime,0.4108,0.16412158745820987
+Gloucestershire Constabulary,2025-11,Robbery,64,2025,671908,Recorded crime,0.0953,0.16412158745820987
+Gloucestershire Constabulary,2025-11,Shoplifting,427,2025,671908,Recorded crime,0.6355,0.16412158745820987
+Gloucestershire Constabulary,2025-11,Theft from the person,23,2025,671908,Recorded crime,0.0342,0.16412158745820987
+Gloucestershire Constabulary,2025-11,Vehicle crime,168,2025,671908,Recorded crime,0.25,0.16412158745820987
+Gloucestershire Constabulary,2025-11,Violence and sexual offences,1711,2025,671908,Recorded crime,2.5465,0.16412158745820987
+Gloucestershire Constabulary,2025-12,Anti-social behaviour,840,2025,671908,ASB,1.2502,0.16412158745820987
+Gloucestershire Constabulary,2025-12,Bicycle theft,37,2025,671908,Recorded crime,0.0551,0.16412158745820987
+Gloucestershire Constabulary,2025-12,Burglary,191,2025,671908,Recorded crime,0.2843,0.16412158745820987
+Gloucestershire Constabulary,2025-12,Criminal damage and arson,287,2025,671908,Recorded crime,0.4271,0.16412158745820987
+Gloucestershire Constabulary,2025-12,Drugs,89,2025,671908,Recorded crime,0.1325,0.16412158745820987
+Gloucestershire Constabulary,2025-12,Other crime,121,2025,671908,Recorded crime,0.1801,0.16412158745820987
+Gloucestershire Constabulary,2025-12,Other theft,276,2025,671908,Recorded crime,0.4108,0.16412158745820987
+Gloucestershire Constabulary,2025-12,Possession of weapons,45,2025,671908,Recorded crime,0.067,0.16412158745820987
+Gloucestershire Constabulary,2025-12,Public order,250,2025,671908,Recorded crime,0.3721,0.16412158745820987
+Gloucestershire Constabulary,2025-12,Robbery,60,2025,671908,Recorded crime,0.0893,0.16412158745820987
+Gloucestershire Constabulary,2025-12,Shoplifting,424,2025,671908,Recorded crime,0.631,0.16412158745820987
+Gloucestershire Constabulary,2025-12,Theft from the person,22,2025,671908,Recorded crime,0.0327,0.16412158745820987
+Gloucestershire Constabulary,2025-12,Vehicle crime,169,2025,671908,Recorded crime,0.2515,0.16412158745820987
+Gloucestershire Constabulary,2025-12,Violence and sexual offences,1563,2025,671908,Recorded crime,2.3262,0.16412158745820987
+Warwickshire Police,2024-01,Anti-social behaviour,531,2024,633002,ASB,0.8389,0.16910655852351356
+Warwickshire Police,2024-01,Bicycle theft,43,2024,633002,Recorded crime,0.0679,0.16910655852351356
+Warwickshire Police,2024-01,Burglary,211,2024,633002,Recorded crime,0.3333,0.16910655852351356
+Warwickshire Police,2024-01,Criminal damage and arson,240,2024,633002,Recorded crime,0.3791,0.16910655852351356
+Warwickshire Police,2024-01,Drugs,94,2024,633002,Recorded crime,0.1485,0.16910655852351356
+Warwickshire Police,2024-01,Other crime,112,2024,633002,Recorded crime,0.1769,0.16910655852351356
+Warwickshire Police,2024-01,Other theft,315,2024,633002,Recorded crime,0.4976,0.16910655852351356
+Warwickshire Police,2024-01,Possession of weapons,55,2024,633002,Recorded crime,0.0869,0.16910655852351356
+Warwickshire Police,2024-01,Public order,230,2024,633002,Recorded crime,0.3633,0.16910655852351356
+Warwickshire Police,2024-01,Robbery,32,2024,633002,Recorded crime,0.0506,0.16910655852351356
+Warwickshire Police,2024-01,Shoplifting,294,2024,633002,Recorded crime,0.4645,0.16910655852351356
+Warwickshire Police,2024-01,Theft from the person,10,2024,633002,Recorded crime,0.0158,0.16910655852351356
+Warwickshire Police,2024-01,Vehicle crime,338,2024,633002,Recorded crime,0.534,0.16910655852351356
+Warwickshire Police,2024-01,Violence and sexual offences,1377,2024,633002,Recorded crime,2.1753,0.16910655852351356
+Warwickshire Police,2024-02,Anti-social behaviour,591,2024,633002,ASB,0.9336,0.16910655852351356
+Warwickshire Police,2024-02,Bicycle theft,28,2024,633002,Recorded crime,0.0442,0.16910655852351356
+Warwickshire Police,2024-02,Burglary,173,2024,633002,Recorded crime,0.2733,0.16910655852351356
+Warwickshire Police,2024-02,Criminal damage and arson,223,2024,633002,Recorded crime,0.3523,0.16910655852351356
+Warwickshire Police,2024-02,Drugs,101,2024,633002,Recorded crime,0.1596,0.16910655852351356
+Warwickshire Police,2024-02,Other crime,115,2024,633002,Recorded crime,0.1817,0.16910655852351356
+Warwickshire Police,2024-02,Other theft,246,2024,633002,Recorded crime,0.3886,0.16910655852351356
+Warwickshire Police,2024-02,Possession of weapons,57,2024,633002,Recorded crime,0.09,0.16910655852351356
+Warwickshire Police,2024-02,Public order,257,2024,633002,Recorded crime,0.406,0.16910655852351356
+Warwickshire Police,2024-02,Robbery,25,2024,633002,Recorded crime,0.0395,0.16910655852351356
+Warwickshire Police,2024-02,Shoplifting,293,2024,633002,Recorded crime,0.4629,0.16910655852351356
+Warwickshire Police,2024-02,Theft from the person,15,2024,633002,Recorded crime,0.0237,0.16910655852351356
+Warwickshire Police,2024-02,Vehicle crime,294,2024,633002,Recorded crime,0.4645,0.16910655852351356
+Warwickshire Police,2024-02,Violence and sexual offences,1362,2024,633002,Recorded crime,2.1517,0.16910655852351356
+Warwickshire Police,2024-03,Anti-social behaviour,624,2024,633002,ASB,0.9858,0.16910655852351356
+Warwickshire Police,2024-03,Bicycle theft,38,2024,633002,Recorded crime,0.06,0.16910655852351356
+Warwickshire Police,2024-03,Burglary,189,2024,633002,Recorded crime,0.2986,0.16910655852351356
+Warwickshire Police,2024-03,Criminal damage and arson,249,2024,633002,Recorded crime,0.3934,0.16910655852351356
+Warwickshire Police,2024-03,Drugs,103,2024,633002,Recorded crime,0.1627,0.16910655852351356
+Warwickshire Police,2024-03,Other crime,105,2024,633002,Recorded crime,0.1659,0.16910655852351356
+Warwickshire Police,2024-03,Other theft,273,2024,633002,Recorded crime,0.4313,0.16910655852351356
+Warwickshire Police,2024-03,Possession of weapons,57,2024,633002,Recorded crime,0.09,0.16910655852351356
+Warwickshire Police,2024-03,Public order,252,2024,633002,Recorded crime,0.3981,0.16910655852351356
+Warwickshire Police,2024-03,Robbery,40,2024,633002,Recorded crime,0.0632,0.16910655852351356
+Warwickshire Police,2024-03,Shoplifting,327,2024,633002,Recorded crime,0.5166,0.16910655852351356
+Warwickshire Police,2024-03,Theft from the person,9,2024,633002,Recorded crime,0.0142,0.16910655852351356
+Warwickshire Police,2024-03,Vehicle crime,381,2024,633002,Recorded crime,0.6019,0.16910655852351356
+Warwickshire Police,2024-03,Violence and sexual offences,1318,2024,633002,Recorded crime,2.0821,0.16910655852351356
+Warwickshire Police,2024-04,Anti-social behaviour,711,2024,633002,ASB,1.1232,0.16910655852351356
+Warwickshire Police,2024-04,Bicycle theft,24,2024,633002,Recorded crime,0.0379,0.16910655852351356
+Warwickshire Police,2024-04,Burglary,176,2024,633002,Recorded crime,0.278,0.16910655852351356
+Warwickshire Police,2024-04,Criminal damage and arson,275,2024,633002,Recorded crime,0.4344,0.16910655852351356
+Warwickshire Police,2024-04,Drugs,106,2024,633002,Recorded crime,0.1675,0.16910655852351356
+Warwickshire Police,2024-04,Other crime,122,2024,633002,Recorded crime,0.1927,0.16910655852351356
+Warwickshire Police,2024-04,Other theft,258,2024,633002,Recorded crime,0.4076,0.16910655852351356
+Warwickshire Police,2024-04,Possession of weapons,57,2024,633002,Recorded crime,0.09,0.16910655852351356
+Warwickshire Police,2024-04,Public order,259,2024,633002,Recorded crime,0.4092,0.16910655852351356
+Warwickshire Police,2024-04,Robbery,38,2024,633002,Recorded crime,0.06,0.16910655852351356
+Warwickshire Police,2024-04,Shoplifting,351,2024,633002,Recorded crime,0.5545,0.16910655852351356
+Warwickshire Police,2024-04,Theft from the person,15,2024,633002,Recorded crime,0.0237,0.16910655852351356
+Warwickshire Police,2024-04,Vehicle crime,399,2024,633002,Recorded crime,0.6303,0.16910655852351356
+Warwickshire Police,2024-04,Violence and sexual offences,1418,2024,633002,Recorded crime,2.2401,0.16910655852351356
+Warwickshire Police,2024-05,Anti-social behaviour,778,2024,633002,ASB,1.2291,0.16910655852351356
+Warwickshire Police,2024-05,Bicycle theft,45,2024,633002,Recorded crime,0.0711,0.16910655852351356
+Warwickshire Police,2024-05,Burglary,211,2024,633002,Recorded crime,0.3333,0.16910655852351356
+Warwickshire Police,2024-05,Criminal damage and arson,297,2024,633002,Recorded crime,0.4692,0.16910655852351356
+Warwickshire Police,2024-05,Drugs,101,2024,633002,Recorded crime,0.1596,0.16910655852351356
+Warwickshire Police,2024-05,Other crime,105,2024,633002,Recorded crime,0.1659,0.16910655852351356
+Warwickshire Police,2024-05,Other theft,294,2024,633002,Recorded crime,0.4645,0.16910655852351356
+Warwickshire Police,2024-05,Possession of weapons,61,2024,633002,Recorded crime,0.0964,0.16910655852351356
+Warwickshire Police,2024-05,Public order,332,2024,633002,Recorded crime,0.5245,0.16910655852351356
+Warwickshire Police,2024-05,Robbery,36,2024,633002,Recorded crime,0.0569,0.16910655852351356
+Warwickshire Police,2024-05,Shoplifting,306,2024,633002,Recorded crime,0.4834,0.16910655852351356
+Warwickshire Police,2024-05,Theft from the person,21,2024,633002,Recorded crime,0.0332,0.16910655852351356
+Warwickshire Police,2024-05,Vehicle crime,372,2024,633002,Recorded crime,0.5877,0.16910655852351356
+Warwickshire Police,2024-05,Violence and sexual offences,1488,2024,633002,Recorded crime,2.3507,0.16910655852351356
+Warwickshire Police,2024-06,Anti-social behaviour,771,2024,633002,ASB,1.218,0.16910655852351356
+Warwickshire Police,2024-06,Bicycle theft,45,2024,633002,Recorded crime,0.0711,0.16910655852351356
+Warwickshire Police,2024-06,Burglary,176,2024,633002,Recorded crime,0.278,0.16910655852351356
+Warwickshire Police,2024-06,Criminal damage and arson,281,2024,633002,Recorded crime,0.4439,0.16910655852351356
+Warwickshire Police,2024-06,Drugs,111,2024,633002,Recorded crime,0.1754,0.16910655852351356
+Warwickshire Police,2024-06,Other crime,85,2024,633002,Recorded crime,0.1343,0.16910655852351356
+Warwickshire Police,2024-06,Other theft,273,2024,633002,Recorded crime,0.4313,0.16910655852351356
+Warwickshire Police,2024-06,Possession of weapons,47,2024,633002,Recorded crime,0.0742,0.16910655852351356
+Warwickshire Police,2024-06,Public order,309,2024,633002,Recorded crime,0.4882,0.16910655852351356
+Warwickshire Police,2024-06,Robbery,45,2024,633002,Recorded crime,0.0711,0.16910655852351356
+Warwickshire Police,2024-06,Shoplifting,259,2024,633002,Recorded crime,0.4092,0.16910655852351356
+Warwickshire Police,2024-06,Theft from the person,17,2024,633002,Recorded crime,0.0269,0.16910655852351356
+Warwickshire Police,2024-06,Vehicle crime,358,2024,633002,Recorded crime,0.5656,0.16910655852351356
+Warwickshire Police,2024-06,Violence and sexual offences,1444,2024,633002,Recorded crime,2.2812,0.16910655852351356
+Warwickshire Police,2024-07,Anti-social behaviour,804,2024,633002,ASB,1.2701,0.16910655852351356
+Warwickshire Police,2024-07,Bicycle theft,49,2024,633002,Recorded crime,0.0774,0.16910655852351356
+Warwickshire Police,2024-07,Burglary,219,2024,633002,Recorded crime,0.346,0.16910655852351356
+Warwickshire Police,2024-07,Criminal damage and arson,345,2024,633002,Recorded crime,0.545,0.16910655852351356
+Warwickshire Police,2024-07,Drugs,95,2024,633002,Recorded crime,0.1501,0.16910655852351356
+Warwickshire Police,2024-07,Other crime,112,2024,633002,Recorded crime,0.1769,0.16910655852351356
+Warwickshire Police,2024-07,Other theft,291,2024,633002,Recorded crime,0.4597,0.16910655852351356
+Warwickshire Police,2024-07,Possession of weapons,67,2024,633002,Recorded crime,0.1058,0.16910655852351356
+Warwickshire Police,2024-07,Public order,357,2024,633002,Recorded crime,0.564,0.16910655852351356
+Warwickshire Police,2024-07,Robbery,38,2024,633002,Recorded crime,0.06,0.16910655852351356
+Warwickshire Police,2024-07,Shoplifting,305,2024,633002,Recorded crime,0.4818,0.16910655852351356
+Warwickshire Police,2024-07,Theft from the person,28,2024,633002,Recorded crime,0.0442,0.16910655852351356
+Warwickshire Police,2024-07,Vehicle crime,313,2024,633002,Recorded crime,0.4945,0.16910655852351356
+Warwickshire Police,2024-07,Violence and sexual offences,1563,2024,633002,Recorded crime,2.4692,0.16910655852351356
+Warwickshire Police,2024-08,Anti-social behaviour,790,2024,633002,ASB,1.248,0.16910655852351356
+Warwickshire Police,2024-08,Bicycle theft,36,2024,633002,Recorded crime,0.0569,0.16910655852351356
+Warwickshire Police,2024-08,Burglary,216,2024,633002,Recorded crime,0.3412,0.16910655852351356
+Warwickshire Police,2024-08,Criminal damage and arson,301,2024,633002,Recorded crime,0.4755,0.16910655852351356
+Warwickshire Police,2024-08,Drugs,86,2024,633002,Recorded crime,0.1359,0.16910655852351356
+Warwickshire Police,2024-08,Other crime,111,2024,633002,Recorded crime,0.1754,0.16910655852351356
+Warwickshire Police,2024-08,Other theft,254,2024,633002,Recorded crime,0.4013,0.16910655852351356
+Warwickshire Police,2024-08,Possession of weapons,46,2024,633002,Recorded crime,0.0727,0.16910655852351356
+Warwickshire Police,2024-08,Public order,326,2024,633002,Recorded crime,0.515,0.16910655852351356
+Warwickshire Police,2024-08,Robbery,39,2024,633002,Recorded crime,0.0616,0.16910655852351356
+Warwickshire Police,2024-08,Shoplifting,326,2024,633002,Recorded crime,0.515,0.16910655852351356
+Warwickshire Police,2024-08,Theft from the person,19,2024,633002,Recorded crime,0.03,0.16910655852351356
+Warwickshire Police,2024-08,Vehicle crime,323,2024,633002,Recorded crime,0.5103,0.16910655852351356
+Warwickshire Police,2024-08,Violence and sexual offences,1344,2024,633002,Recorded crime,2.1232,0.16910655852351356
+Warwickshire Police,2024-09,Anti-social behaviour,698,2024,633002,ASB,1.1027,0.16910655852351356
+Warwickshire Police,2024-09,Bicycle theft,35,2024,633002,Recorded crime,0.0553,0.16910655852351356
+Warwickshire Police,2024-09,Burglary,203,2024,633002,Recorded crime,0.3207,0.16910655852351356
+Warwickshire Police,2024-09,Criminal damage and arson,281,2024,633002,Recorded crime,0.4439,0.16910655852351356
+Warwickshire Police,2024-09,Drugs,97,2024,633002,Recorded crime,0.1532,0.16910655852351356
+Warwickshire Police,2024-09,Other crime,116,2024,633002,Recorded crime,0.1833,0.16910655852351356
+Warwickshire Police,2024-09,Other theft,265,2024,633002,Recorded crime,0.4186,0.16910655852351356
+Warwickshire Police,2024-09,Possession of weapons,40,2024,633002,Recorded crime,0.0632,0.16910655852351356
+Warwickshire Police,2024-09,Public order,322,2024,633002,Recorded crime,0.5087,0.16910655852351356
+Warwickshire Police,2024-09,Robbery,44,2024,633002,Recorded crime,0.0695,0.16910655852351356
+Warwickshire Police,2024-09,Shoplifting,320,2024,633002,Recorded crime,0.5055,0.16910655852351356
+Warwickshire Police,2024-09,Theft from the person,16,2024,633002,Recorded crime,0.0253,0.16910655852351356
+Warwickshire Police,2024-09,Vehicle crime,359,2024,633002,Recorded crime,0.5671,0.16910655852351356
+Warwickshire Police,2024-09,Violence and sexual offences,1296,2024,633002,Recorded crime,2.0474,0.16910655852351356
+Warwickshire Police,2024-10,Anti-social behaviour,735,2024,633002,ASB,1.1611,0.16910655852351356
+Warwickshire Police,2024-10,Bicycle theft,27,2024,633002,Recorded crime,0.0427,0.16910655852351356
+Warwickshire Police,2024-10,Burglary,199,2024,633002,Recorded crime,0.3144,0.16910655852351356
+Warwickshire Police,2024-10,Criminal damage and arson,312,2024,633002,Recorded crime,0.4929,0.16910655852351356
+Warwickshire Police,2024-10,Drugs,95,2024,633002,Recorded crime,0.1501,0.16910655852351356
+Warwickshire Police,2024-10,Other crime,125,2024,633002,Recorded crime,0.1975,0.16910655852351356
+Warwickshire Police,2024-10,Other theft,273,2024,633002,Recorded crime,0.4313,0.16910655852351356
+Warwickshire Police,2024-10,Possession of weapons,45,2024,633002,Recorded crime,0.0711,0.16910655852351356
+Warwickshire Police,2024-10,Public order,250,2024,633002,Recorded crime,0.3949,0.16910655852351356
+Warwickshire Police,2024-10,Robbery,26,2024,633002,Recorded crime,0.0411,0.16910655852351356
+Warwickshire Police,2024-10,Shoplifting,357,2024,633002,Recorded crime,0.564,0.16910655852351356
+Warwickshire Police,2024-10,Theft from the person,30,2024,633002,Recorded crime,0.0474,0.16910655852351356
+Warwickshire Police,2024-10,Vehicle crime,431,2024,633002,Recorded crime,0.6809,0.16910655852351356
+Warwickshire Police,2024-10,Violence and sexual offences,1355,2024,633002,Recorded crime,2.1406,0.16910655852351356
+Warwickshire Police,2024-11,Anti-social behaviour,614,2024,633002,ASB,0.97,0.16910655852351356
+Warwickshire Police,2024-11,Bicycle theft,35,2024,633002,Recorded crime,0.0553,0.16910655852351356
+Warwickshire Police,2024-11,Burglary,179,2024,633002,Recorded crime,0.2828,0.16910655852351356
+Warwickshire Police,2024-11,Criminal damage and arson,274,2024,633002,Recorded crime,0.4329,0.16910655852351356
+Warwickshire Police,2024-11,Drugs,119,2024,633002,Recorded crime,0.188,0.16910655852351356
+Warwickshire Police,2024-11,Other crime,140,2024,633002,Recorded crime,0.2212,0.16910655852351356
+Warwickshire Police,2024-11,Other theft,235,2024,633002,Recorded crime,0.3712,0.16910655852351356
+Warwickshire Police,2024-11,Possession of weapons,44,2024,633002,Recorded crime,0.0695,0.16910655852351356
+Warwickshire Police,2024-11,Public order,241,2024,633002,Recorded crime,0.3807,0.16910655852351356
+Warwickshire Police,2024-11,Robbery,27,2024,633002,Recorded crime,0.0427,0.16910655852351356
+Warwickshire Police,2024-11,Shoplifting,250,2024,633002,Recorded crime,0.3949,0.16910655852351356
+Warwickshire Police,2024-11,Theft from the person,17,2024,633002,Recorded crime,0.0269,0.16910655852351356
+Warwickshire Police,2024-11,Vehicle crime,320,2024,633002,Recorded crime,0.5055,0.16910655852351356
+Warwickshire Police,2024-11,Violence and sexual offences,1221,2024,633002,Recorded crime,1.9289,0.16910655852351356
+Warwickshire Police,2024-12,Anti-social behaviour,522,2024,633002,ASB,0.8246,0.16910655852351356
+Warwickshire Police,2024-12,Bicycle theft,22,2024,633002,Recorded crime,0.0348,0.16910655852351356
+Warwickshire Police,2024-12,Burglary,200,2024,633002,Recorded crime,0.316,0.16910655852351356
+Warwickshire Police,2024-12,Criminal damage and arson,281,2024,633002,Recorded crime,0.4439,0.16910655852351356
+Warwickshire Police,2024-12,Drugs,93,2024,633002,Recorded crime,0.1469,0.16910655852351356
+Warwickshire Police,2024-12,Other crime,129,2024,633002,Recorded crime,0.2038,0.16910655852351356
+Warwickshire Police,2024-12,Other theft,221,2024,633002,Recorded crime,0.3491,0.16910655852351356
+Warwickshire Police,2024-12,Possession of weapons,43,2024,633002,Recorded crime,0.0679,0.16910655852351356
+Warwickshire Police,2024-12,Public order,224,2024,633002,Recorded crime,0.3539,0.16910655852351356
+Warwickshire Police,2024-12,Robbery,25,2024,633002,Recorded crime,0.0395,0.16910655852351356
+Warwickshire Police,2024-12,Shoplifting,222,2024,633002,Recorded crime,0.3507,0.16910655852351356
+Warwickshire Police,2024-12,Theft from the person,24,2024,633002,Recorded crime,0.0379,0.16910655852351356
+Warwickshire Police,2024-12,Vehicle crime,298,2024,633002,Recorded crime,0.4708,0.16910655852351356
+Warwickshire Police,2024-12,Violence and sexual offences,1380,2024,633002,Recorded crime,2.1801,0.16910655852351356
+Warwickshire Police,2025-01,Anti-social behaviour,581,2025,644021,ASB,0.9021,0.16910655852351356
+Warwickshire Police,2025-01,Bicycle theft,19,2025,644021,Recorded crime,0.0295,0.16910655852351356
+Warwickshire Police,2025-01,Burglary,196,2025,644021,Recorded crime,0.3043,0.16910655852351356
+Warwickshire Police,2025-01,Criminal damage and arson,234,2025,644021,Recorded crime,0.3633,0.16910655852351356
+Warwickshire Police,2025-01,Drugs,101,2025,644021,Recorded crime,0.1568,0.16910655852351356
+Warwickshire Police,2025-01,Other crime,127,2025,644021,Recorded crime,0.1972,0.16910655852351356
+Warwickshire Police,2025-01,Other theft,233,2025,644021,Recorded crime,0.3618,0.16910655852351356
+Warwickshire Police,2025-01,Possession of weapons,41,2025,644021,Recorded crime,0.0637,0.16910655852351356
+Warwickshire Police,2025-01,Public order,212,2025,644021,Recorded crime,0.3292,0.16910655852351356
+Warwickshire Police,2025-01,Robbery,25,2025,644021,Recorded crime,0.0388,0.16910655852351356
+Warwickshire Police,2025-01,Shoplifting,241,2025,644021,Recorded crime,0.3742,0.16910655852351356
+Warwickshire Police,2025-01,Theft from the person,11,2025,644021,Recorded crime,0.0171,0.16910655852351356
+Warwickshire Police,2025-01,Vehicle crime,327,2025,644021,Recorded crime,0.5077,0.16910655852351356
+Warwickshire Police,2025-01,Violence and sexual offences,1353,2025,644021,Recorded crime,2.1009,0.16910655852351356
+Warwickshire Police,2025-02,Anti-social behaviour,617,2025,644021,ASB,0.958,0.16910655852351356
+Warwickshire Police,2025-02,Bicycle theft,24,2025,644021,Recorded crime,0.0373,0.16910655852351356
+Warwickshire Police,2025-02,Burglary,157,2025,644021,Recorded crime,0.2438,0.16910655852351356
+Warwickshire Police,2025-02,Criminal damage and arson,217,2025,644021,Recorded crime,0.3369,0.16910655852351356
+Warwickshire Police,2025-02,Drugs,92,2025,644021,Recorded crime,0.1429,0.16910655852351356
+Warwickshire Police,2025-02,Other crime,104,2025,644021,Recorded crime,0.1615,0.16910655852351356
+Warwickshire Police,2025-02,Other theft,234,2025,644021,Recorded crime,0.3633,0.16910655852351356
+Warwickshire Police,2025-02,Possession of weapons,43,2025,644021,Recorded crime,0.0668,0.16910655852351356
+Warwickshire Police,2025-02,Public order,202,2025,644021,Recorded crime,0.3137,0.16910655852351356
+Warwickshire Police,2025-02,Robbery,37,2025,644021,Recorded crime,0.0575,0.16910655852351356
+Warwickshire Police,2025-02,Shoplifting,268,2025,644021,Recorded crime,0.4161,0.16910655852351356
+Warwickshire Police,2025-02,Theft from the person,19,2025,644021,Recorded crime,0.0295,0.16910655852351356
+Warwickshire Police,2025-02,Vehicle crime,238,2025,644021,Recorded crime,0.3696,0.16910655852351356
+Warwickshire Police,2025-02,Violence and sexual offences,1277,2025,644021,Recorded crime,1.9829,0.16910655852351356
+Warwickshire Police,2025-03,Anti-social behaviour,849,2025,644021,ASB,1.3183,0.16910655852351356
+Warwickshire Police,2025-03,Bicycle theft,24,2025,644021,Recorded crime,0.0373,0.16910655852351356
+Warwickshire Police,2025-03,Burglary,185,2025,644021,Recorded crime,0.2873,0.16910655852351356
+Warwickshire Police,2025-03,Criminal damage and arson,270,2025,644021,Recorded crime,0.4192,0.16910655852351356
+Warwickshire Police,2025-03,Drugs,97,2025,644021,Recorded crime,0.1506,0.16910655852351356
+Warwickshire Police,2025-03,Other crime,117,2025,644021,Recorded crime,0.1817,0.16910655852351356
+Warwickshire Police,2025-03,Other theft,229,2025,644021,Recorded crime,0.3556,0.16910655852351356
+Warwickshire Police,2025-03,Possession of weapons,51,2025,644021,Recorded crime,0.0792,0.16910655852351356
+Warwickshire Police,2025-03,Public order,261,2025,644021,Recorded crime,0.4053,0.16910655852351356
+Warwickshire Police,2025-03,Robbery,46,2025,644021,Recorded crime,0.0714,0.16910655852351356
+Warwickshire Police,2025-03,Shoplifting,342,2025,644021,Recorded crime,0.531,0.16910655852351356
+Warwickshire Police,2025-03,Theft from the person,24,2025,644021,Recorded crime,0.0373,0.16910655852351356
+Warwickshire Police,2025-03,Vehicle crime,279,2025,644021,Recorded crime,0.4332,0.16910655852351356
+Warwickshire Police,2025-03,Violence and sexual offences,1401,2025,644021,Recorded crime,2.1754,0.16910655852351356
+Warwickshire Police,2025-04,Anti-social behaviour,950,2025,644021,ASB,1.4751,0.16910655852351356
+Warwickshire Police,2025-04,Bicycle theft,27,2025,644021,Recorded crime,0.0419,0.16910655852351356
+Warwickshire Police,2025-04,Burglary,159,2025,644021,Recorded crime,0.2469,0.16910655852351356
+Warwickshire Police,2025-04,Criminal damage and arson,314,2025,644021,Recorded crime,0.4876,0.16910655852351356
+Warwickshire Police,2025-04,Drugs,83,2025,644021,Recorded crime,0.1289,0.16910655852351356
+Warwickshire Police,2025-04,Other crime,125,2025,644021,Recorded crime,0.1941,0.16910655852351356
+Warwickshire Police,2025-04,Other theft,259,2025,644021,Recorded crime,0.4022,0.16910655852351356
+Warwickshire Police,2025-04,Possession of weapons,52,2025,644021,Recorded crime,0.0807,0.16910655852351356
+Warwickshire Police,2025-04,Public order,308,2025,644021,Recorded crime,0.4782,0.16910655852351356
+Warwickshire Police,2025-04,Robbery,32,2025,644021,Recorded crime,0.0497,0.16910655852351356
+Warwickshire Police,2025-04,Shoplifting,324,2025,644021,Recorded crime,0.5031,0.16910655852351356
+Warwickshire Police,2025-04,Theft from the person,24,2025,644021,Recorded crime,0.0373,0.16910655852351356
+Warwickshire Police,2025-04,Vehicle crime,349,2025,644021,Recorded crime,0.5419,0.16910655852351356
+Warwickshire Police,2025-04,Violence and sexual offences,1278,2025,644021,Recorded crime,1.9844,0.16910655852351356
+Warwickshire Police,2025-05,Anti-social behaviour,1011,2025,644021,ASB,1.5698,0.16910655852351356
+Warwickshire Police,2025-05,Bicycle theft,26,2025,644021,Recorded crime,0.0404,0.16910655852351356
+Warwickshire Police,2025-05,Burglary,178,2025,644021,Recorded crime,0.2764,0.16910655852351356
+Warwickshire Police,2025-05,Criminal damage and arson,329,2025,644021,Recorded crime,0.5109,0.16910655852351356
+Warwickshire Police,2025-05,Drugs,93,2025,644021,Recorded crime,0.1444,0.16910655852351356
+Warwickshire Police,2025-05,Other crime,122,2025,644021,Recorded crime,0.1894,0.16910655852351356
+Warwickshire Police,2025-05,Other theft,227,2025,644021,Recorded crime,0.3525,0.16910655852351356
+Warwickshire Police,2025-05,Possession of weapons,45,2025,644021,Recorded crime,0.0699,0.16910655852351356
+Warwickshire Police,2025-05,Public order,294,2025,644021,Recorded crime,0.4565,0.16910655852351356
+Warwickshire Police,2025-05,Robbery,35,2025,644021,Recorded crime,0.0543,0.16910655852351356
+Warwickshire Police,2025-05,Shoplifting,241,2025,644021,Recorded crime,0.3742,0.16910655852351356
+Warwickshire Police,2025-05,Theft from the person,14,2025,644021,Recorded crime,0.0217,0.16910655852351356
+Warwickshire Police,2025-05,Vehicle crime,295,2025,644021,Recorded crime,0.4581,0.16910655852351356
+Warwickshire Police,2025-05,Violence and sexual offences,1527,2025,644021,Recorded crime,2.371,0.16910655852351356
+Warwickshire Police,2025-06,Anti-social behaviour,1114,2025,644021,ASB,1.7298,0.16910655852351356
+Warwickshire Police,2025-06,Bicycle theft,37,2025,644021,Recorded crime,0.0575,0.16910655852351356
+Warwickshire Police,2025-06,Burglary,142,2025,644021,Recorded crime,0.2205,0.16910655852351356
+Warwickshire Police,2025-06,Criminal damage and arson,310,2025,644021,Recorded crime,0.4814,0.16910655852351356
+Warwickshire Police,2025-06,Drugs,106,2025,644021,Recorded crime,0.1646,0.16910655852351356
+Warwickshire Police,2025-06,Other crime,90,2025,644021,Recorded crime,0.1397,0.16910655852351356
+Warwickshire Police,2025-06,Other theft,242,2025,644021,Recorded crime,0.3758,0.16910655852351356
+Warwickshire Police,2025-06,Possession of weapons,55,2025,644021,Recorded crime,0.0854,0.16910655852351356
+Warwickshire Police,2025-06,Public order,342,2025,644021,Recorded crime,0.531,0.16910655852351356
+Warwickshire Police,2025-06,Robbery,43,2025,644021,Recorded crime,0.0668,0.16910655852351356
+Warwickshire Police,2025-06,Shoplifting,256,2025,644021,Recorded crime,0.3975,0.16910655852351356
+Warwickshire Police,2025-06,Theft from the person,21,2025,644021,Recorded crime,0.0326,0.16910655852351356
+Warwickshire Police,2025-06,Vehicle crime,291,2025,644021,Recorded crime,0.4518,0.16910655852351356
+Warwickshire Police,2025-06,Violence and sexual offences,1537,2025,644021,Recorded crime,2.3866,0.16910655852351356
+Warwickshire Police,2025-07,Anti-social behaviour,1117,2025,644021,ASB,1.7344,0.16910655852351356
+Warwickshire Police,2025-07,Bicycle theft,23,2025,644021,Recorded crime,0.0357,0.16910655852351356
+Warwickshire Police,2025-07,Burglary,152,2025,644021,Recorded crime,0.236,0.16910655852351356
+Warwickshire Police,2025-07,Criminal damage and arson,284,2025,644021,Recorded crime,0.441,0.16910655852351356
+Warwickshire Police,2025-07,Drugs,80,2025,644021,Recorded crime,0.1242,0.16910655852351356
+Warwickshire Police,2025-07,Other crime,87,2025,644021,Recorded crime,0.1351,0.16910655852351356
+Warwickshire Police,2025-07,Other theft,258,2025,644021,Recorded crime,0.4006,0.16910655852351356
+Warwickshire Police,2025-07,Possession of weapons,50,2025,644021,Recorded crime,0.0776,0.16910655852351356
+Warwickshire Police,2025-07,Public order,382,2025,644021,Recorded crime,0.5931,0.16910655852351356
+Warwickshire Police,2025-07,Robbery,45,2025,644021,Recorded crime,0.0699,0.16910655852351356
+Warwickshire Police,2025-07,Shoplifting,391,2025,644021,Recorded crime,0.6071,0.16910655852351356
+Warwickshire Police,2025-07,Theft from the person,15,2025,644021,Recorded crime,0.0233,0.16910655852351356
+Warwickshire Police,2025-07,Vehicle crime,251,2025,644021,Recorded crime,0.3897,0.16910655852351356
+Warwickshire Police,2025-07,Violence and sexual offences,1618,2025,644021,Recorded crime,2.5123,0.16910655852351356
+Warwickshire Police,2025-08,Anti-social behaviour,1329,2025,644021,ASB,2.0636,0.16910655852351356
+Warwickshire Police,2025-08,Bicycle theft,14,2025,644021,Recorded crime,0.0217,0.16910655852351356
+Warwickshire Police,2025-08,Burglary,193,2025,644021,Recorded crime,0.2997,0.16910655852351356
+Warwickshire Police,2025-08,Criminal damage and arson,376,2025,644021,Recorded crime,0.5838,0.16910655852351356
+Warwickshire Police,2025-08,Drugs,98,2025,644021,Recorded crime,0.1522,0.16910655852351356
+Warwickshire Police,2025-08,Other crime,97,2025,644021,Recorded crime,0.1506,0.16910655852351356
+Warwickshire Police,2025-08,Other theft,250,2025,644021,Recorded crime,0.3882,0.16910655852351356
+Warwickshire Police,2025-08,Possession of weapons,56,2025,644021,Recorded crime,0.087,0.16910655852351356
+Warwickshire Police,2025-08,Public order,353,2025,644021,Recorded crime,0.5481,0.16910655852351356
+Warwickshire Police,2025-08,Robbery,45,2025,644021,Recorded crime,0.0699,0.16910655852351356
+Warwickshire Police,2025-08,Shoplifting,335,2025,644021,Recorded crime,0.5202,0.16910655852351356
+Warwickshire Police,2025-08,Theft from the person,23,2025,644021,Recorded crime,0.0357,0.16910655852351356
+Warwickshire Police,2025-08,Vehicle crime,302,2025,644021,Recorded crime,0.4689,0.16910655852351356
+Warwickshire Police,2025-08,Violence and sexual offences,1520,2025,644021,Recorded crime,2.3602,0.16910655852351356
+Warwickshire Police,2025-09,Anti-social behaviour,976,2025,644021,ASB,1.5155,0.16910655852351356
+Warwickshire Police,2025-09,Bicycle theft,28,2025,644021,Recorded crime,0.0435,0.16910655852351356
+Warwickshire Police,2025-09,Burglary,154,2025,644021,Recorded crime,0.2391,0.16910655852351356
+Warwickshire Police,2025-09,Criminal damage and arson,263,2025,644021,Recorded crime,0.4084,0.16910655852351356
+Warwickshire Police,2025-09,Drugs,70,2025,644021,Recorded crime,0.1087,0.16910655852351356
+Warwickshire Police,2025-09,Other crime,91,2025,644021,Recorded crime,0.1413,0.16910655852351356
+Warwickshire Police,2025-09,Other theft,220,2025,644021,Recorded crime,0.3416,0.16910655852351356
+Warwickshire Police,2025-09,Possession of weapons,43,2025,644021,Recorded crime,0.0668,0.16910655852351356
+Warwickshire Police,2025-09,Public order,290,2025,644021,Recorded crime,0.4503,0.16910655852351356
+Warwickshire Police,2025-09,Robbery,61,2025,644021,Recorded crime,0.0947,0.16910655852351356
+Warwickshire Police,2025-09,Shoplifting,434,2025,644021,Recorded crime,0.6739,0.16910655852351356
+Warwickshire Police,2025-09,Theft from the person,20,2025,644021,Recorded crime,0.0311,0.16910655852351356
+Warwickshire Police,2025-09,Vehicle crime,323,2025,644021,Recorded crime,0.5015,0.16910655852351356
+Warwickshire Police,2025-09,Violence and sexual offences,1478,2025,644021,Recorded crime,2.295,0.16910655852351356
+Warwickshire Police,2025-10,Anti-social behaviour,944,2025,644021,ASB,1.4658,0.16910655852351356
+Warwickshire Police,2025-10,Bicycle theft,25,2025,644021,Recorded crime,0.0388,0.16910655852351356
+Warwickshire Police,2025-10,Burglary,210,2025,644021,Recorded crime,0.3261,0.16910655852351356
+Warwickshire Police,2025-10,Criminal damage and arson,252,2025,644021,Recorded crime,0.3913,0.16910655852351356
+Warwickshire Police,2025-10,Drugs,78,2025,644021,Recorded crime,0.1211,0.16910655852351356
+Warwickshire Police,2025-10,Other crime,132,2025,644021,Recorded crime,0.205,0.16910655852351356
+Warwickshire Police,2025-10,Other theft,233,2025,644021,Recorded crime,0.3618,0.16910655852351356
+Warwickshire Police,2025-10,Possession of weapons,42,2025,644021,Recorded crime,0.0652,0.16910655852351356
+Warwickshire Police,2025-10,Public order,281,2025,644021,Recorded crime,0.4363,0.16910655852351356
+Warwickshire Police,2025-10,Robbery,48,2025,644021,Recorded crime,0.0745,0.16910655852351356
+Warwickshire Police,2025-10,Shoplifting,378,2025,644021,Recorded crime,0.5869,0.16910655852351356
+Warwickshire Police,2025-10,Theft from the person,17,2025,644021,Recorded crime,0.0264,0.16910655852351356
+Warwickshire Police,2025-10,Vehicle crime,309,2025,644021,Recorded crime,0.4798,0.16910655852351356
+Warwickshire Police,2025-10,Violence and sexual offences,1415,2025,644021,Recorded crime,2.1971,0.16910655852351356
+Warwickshire Police,2025-11,Anti-social behaviour,847,2025,644021,ASB,1.3152,0.16910655852351356
+Warwickshire Police,2025-11,Bicycle theft,40,2025,644021,Recorded crime,0.0621,0.16910655852351356
+Warwickshire Police,2025-11,Burglary,207,2025,644021,Recorded crime,0.3214,0.16910655852351356
+Warwickshire Police,2025-11,Criminal damage and arson,328,2025,644021,Recorded crime,0.5093,0.16910655852351356
+Warwickshire Police,2025-11,Drugs,78,2025,644021,Recorded crime,0.1211,0.16910655852351356
+Warwickshire Police,2025-11,Other crime,109,2025,644021,Recorded crime,0.1692,0.16910655852351356
+Warwickshire Police,2025-11,Other theft,272,2025,644021,Recorded crime,0.4223,0.16910655852351356
+Warwickshire Police,2025-11,Possession of weapons,58,2025,644021,Recorded crime,0.0901,0.16910655852351356
+Warwickshire Police,2025-11,Public order,252,2025,644021,Recorded crime,0.3913,0.16910655852351356
+Warwickshire Police,2025-11,Robbery,49,2025,644021,Recorded crime,0.0761,0.16910655852351356
+Warwickshire Police,2025-11,Shoplifting,334,2025,644021,Recorded crime,0.5186,0.16910655852351356
+Warwickshire Police,2025-11,Theft from the person,16,2025,644021,Recorded crime,0.0248,0.16910655852351356
+Warwickshire Police,2025-11,Vehicle crime,288,2025,644021,Recorded crime,0.4472,0.16910655852351356
+Warwickshire Police,2025-11,Violence and sexual offences,1368,2025,644021,Recorded crime,2.1242,0.16910655852351356
+Warwickshire Police,2025-12,Anti-social behaviour,643,2025,644021,ASB,0.9984,0.16910655852351356
+Warwickshire Police,2025-12,Bicycle theft,34,2025,644021,Recorded crime,0.0528,0.16910655852351356
+Warwickshire Police,2025-12,Burglary,189,2025,644021,Recorded crime,0.2935,0.16910655852351356
+Warwickshire Police,2025-12,Criminal damage and arson,251,2025,644021,Recorded crime,0.3897,0.16910655852351356
+Warwickshire Police,2025-12,Drugs,77,2025,644021,Recorded crime,0.1196,0.16910655852351356
+Warwickshire Police,2025-12,Other crime,88,2025,644021,Recorded crime,0.1366,0.16910655852351356
+Warwickshire Police,2025-12,Other theft,225,2025,644021,Recorded crime,0.3494,0.16910655852351356
+Warwickshire Police,2025-12,Possession of weapons,49,2025,644021,Recorded crime,0.0761,0.16910655852351356
+Warwickshire Police,2025-12,Public order,205,2025,644021,Recorded crime,0.3183,0.16910655852351356
+Warwickshire Police,2025-12,Robbery,30,2025,644021,Recorded crime,0.0466,0.16910655852351356
+Warwickshire Police,2025-12,Shoplifting,264,2025,644021,Recorded crime,0.4099,0.16910655852351356
+Warwickshire Police,2025-12,Theft from the person,20,2025,644021,Recorded crime,0.0311,0.16910655852351356
+Warwickshire Police,2025-12,Vehicle crime,208,2025,644021,Recorded crime,0.323,0.16910655852351356
+Warwickshire Police,2025-12,Violence and sexual offences,1395,2025,644021,Recorded crime,2.1661,0.16910655852351356
+Wiltshire Police,2024-01,Anti-social behaviour,679,2024,767325,ASB,0.8849,0.16461424206427858
+Wiltshire Police,2024-01,Bicycle theft,22,2024,767325,Recorded crime,0.0287,0.16461424206427858
+Wiltshire Police,2024-01,Burglary,202,2024,767325,Recorded crime,0.2633,0.16461424206427858
+Wiltshire Police,2024-01,Criminal damage and arson,359,2024,767325,Recorded crime,0.4679,0.16461424206427858
+Wiltshire Police,2024-01,Drugs,61,2024,767325,Recorded crime,0.0795,0.16461424206427858
+Wiltshire Police,2024-01,Other crime,82,2024,767325,Recorded crime,0.1069,0.16461424206427858
+Wiltshire Police,2024-01,Other theft,207,2024,767325,Recorded crime,0.2698,0.16461424206427858
+Wiltshire Police,2024-01,Possession of weapons,30,2024,767325,Recorded crime,0.0391,0.16461424206427858
+Wiltshire Police,2024-01,Public order,237,2024,767325,Recorded crime,0.3089,0.16461424206427858
+Wiltshire Police,2024-01,Robbery,15,2024,767325,Recorded crime,0.0195,0.16461424206427858
+Wiltshire Police,2024-01,Shoplifting,274,2024,767325,Recorded crime,0.3571,0.16461424206427858
+Wiltshire Police,2024-01,Theft from the person,37,2024,767325,Recorded crime,0.0482,0.16461424206427858
+Wiltshire Police,2024-01,Vehicle crime,239,2024,767325,Recorded crime,0.3115,0.16461424206427858
+Wiltshire Police,2024-01,Violence and sexual offences,1398,2024,767325,Recorded crime,1.8219,0.16461424206427858
+Wiltshire Police,2024-02,Anti-social behaviour,740,2024,767325,ASB,0.9644,0.16461424206427858
+Wiltshire Police,2024-02,Bicycle theft,13,2024,767325,Recorded crime,0.0169,0.16461424206427858
+Wiltshire Police,2024-02,Burglary,107,2024,767325,Recorded crime,0.1394,0.16461424206427858
+Wiltshire Police,2024-02,Criminal damage and arson,334,2024,767325,Recorded crime,0.4353,0.16461424206427858
+Wiltshire Police,2024-02,Drugs,86,2024,767325,Recorded crime,0.1121,0.16461424206427858
+Wiltshire Police,2024-02,Other crime,76,2024,767325,Recorded crime,0.099,0.16461424206427858
+Wiltshire Police,2024-02,Other theft,201,2024,767325,Recorded crime,0.2619,0.16461424206427858
+Wiltshire Police,2024-02,Possession of weapons,30,2024,767325,Recorded crime,0.0391,0.16461424206427858
+Wiltshire Police,2024-02,Public order,276,2024,767325,Recorded crime,0.3597,0.16461424206427858
+Wiltshire Police,2024-02,Robbery,17,2024,767325,Recorded crime,0.0222,0.16461424206427858
+Wiltshire Police,2024-02,Shoplifting,255,2024,767325,Recorded crime,0.3323,0.16461424206427858
+Wiltshire Police,2024-02,Theft from the person,26,2024,767325,Recorded crime,0.0339,0.16461424206427858
+Wiltshire Police,2024-02,Vehicle crime,179,2024,767325,Recorded crime,0.2333,0.16461424206427858
+Wiltshire Police,2024-02,Violence and sexual offences,1404,2024,767325,Recorded crime,1.8297,0.16461424206427858
+Wiltshire Police,2024-03,Anti-social behaviour,836,2024,767325,ASB,1.0895,0.16461424206427858
+Wiltshire Police,2024-03,Bicycle theft,35,2024,767325,Recorded crime,0.0456,0.16461424206427858
+Wiltshire Police,2024-03,Burglary,139,2024,767325,Recorded crime,0.1811,0.16461424206427858
+Wiltshire Police,2024-03,Criminal damage and arson,385,2024,767325,Recorded crime,0.5017,0.16461424206427858
+Wiltshire Police,2024-03,Drugs,106,2024,767325,Recorded crime,0.1381,0.16461424206427858
+Wiltshire Police,2024-03,Other crime,64,2024,767325,Recorded crime,0.0834,0.16461424206427858
+Wiltshire Police,2024-03,Other theft,227,2024,767325,Recorded crime,0.2958,0.16461424206427858
+Wiltshire Police,2024-03,Possession of weapons,32,2024,767325,Recorded crime,0.0417,0.16461424206427858
+Wiltshire Police,2024-03,Public order,265,2024,767325,Recorded crime,0.3454,0.16461424206427858
+Wiltshire Police,2024-03,Robbery,14,2024,767325,Recorded crime,0.0182,0.16461424206427858
+Wiltshire Police,2024-03,Shoplifting,267,2024,767325,Recorded crime,0.348,0.16461424206427858
+Wiltshire Police,2024-03,Theft from the person,20,2024,767325,Recorded crime,0.0261,0.16461424206427858
+Wiltshire Police,2024-03,Vehicle crime,171,2024,767325,Recorded crime,0.2229,0.16461424206427858
+Wiltshire Police,2024-03,Violence and sexual offences,1462,2024,767325,Recorded crime,1.9053,0.16461424206427858
+Wiltshire Police,2024-04,Anti-social behaviour,892,2024,767325,ASB,1.1625,0.16461424206427858
+Wiltshire Police,2024-04,Bicycle theft,35,2024,767325,Recorded crime,0.0456,0.16461424206427858
+Wiltshire Police,2024-04,Burglary,137,2024,767325,Recorded crime,0.1785,0.16461424206427858
+Wiltshire Police,2024-04,Criminal damage and arson,362,2024,767325,Recorded crime,0.4718,0.16461424206427858
+Wiltshire Police,2024-04,Drugs,80,2024,767325,Recorded crime,0.1043,0.16461424206427858
+Wiltshire Police,2024-04,Other crime,96,2024,767325,Recorded crime,0.1251,0.16461424206427858
+Wiltshire Police,2024-04,Other theft,228,2024,767325,Recorded crime,0.2971,0.16461424206427858
+Wiltshire Police,2024-04,Possession of weapons,23,2024,767325,Recorded crime,0.03,0.16461424206427858
+Wiltshire Police,2024-04,Public order,289,2024,767325,Recorded crime,0.3766,0.16461424206427858
+Wiltshire Police,2024-04,Robbery,14,2024,767325,Recorded crime,0.0182,0.16461424206427858
+Wiltshire Police,2024-04,Shoplifting,343,2024,767325,Recorded crime,0.447,0.16461424206427858
+Wiltshire Police,2024-04,Theft from the person,20,2024,767325,Recorded crime,0.0261,0.16461424206427858
+Wiltshire Police,2024-04,Vehicle crime,242,2024,767325,Recorded crime,0.3154,0.16461424206427858
+Wiltshire Police,2024-04,Violence and sexual offences,1324,2024,767325,Recorded crime,1.7255,0.16461424206427858
+Wiltshire Police,2024-05,Anti-social behaviour,973,2024,767325,ASB,1.268,0.16461424206427858
+Wiltshire Police,2024-05,Bicycle theft,34,2024,767325,Recorded crime,0.0443,0.16461424206427858
+Wiltshire Police,2024-05,Burglary,143,2024,767325,Recorded crime,0.1864,0.16461424206427858
+Wiltshire Police,2024-05,Criminal damage and arson,401,2024,767325,Recorded crime,0.5226,0.16461424206427858
+Wiltshire Police,2024-05,Drugs,98,2024,767325,Recorded crime,0.1277,0.16461424206427858
+Wiltshire Police,2024-05,Other crime,102,2024,767325,Recorded crime,0.1329,0.16461424206427858
+Wiltshire Police,2024-05,Other theft,231,2024,767325,Recorded crime,0.301,0.16461424206427858
+Wiltshire Police,2024-05,Possession of weapons,34,2024,767325,Recorded crime,0.0443,0.16461424206427858
+Wiltshire Police,2024-05,Public order,372,2024,767325,Recorded crime,0.4848,0.16461424206427858
+Wiltshire Police,2024-05,Robbery,19,2024,767325,Recorded crime,0.0248,0.16461424206427858
+Wiltshire Police,2024-05,Shoplifting,320,2024,767325,Recorded crime,0.417,0.16461424206427858
+Wiltshire Police,2024-05,Theft from the person,29,2024,767325,Recorded crime,0.0378,0.16461424206427858
+Wiltshire Police,2024-05,Vehicle crime,175,2024,767325,Recorded crime,0.2281,0.16461424206427858
+Wiltshire Police,2024-05,Violence and sexual offences,1602,2024,767325,Recorded crime,2.0878,0.16461424206427858
+Wiltshire Police,2024-06,Anti-social behaviour,1025,2024,767325,ASB,1.3358,0.16461424206427858
+Wiltshire Police,2024-06,Bicycle theft,46,2024,767325,Recorded crime,0.0599,0.16461424206427858
+Wiltshire Police,2024-06,Burglary,155,2024,767325,Recorded crime,0.202,0.16461424206427858
+Wiltshire Police,2024-06,Criminal damage and arson,363,2024,767325,Recorded crime,0.4731,0.16461424206427858
+Wiltshire Police,2024-06,Drugs,72,2024,767325,Recorded crime,0.0938,0.16461424206427858
+Wiltshire Police,2024-06,Other crime,98,2024,767325,Recorded crime,0.1277,0.16461424206427858
+Wiltshire Police,2024-06,Other theft,231,2024,767325,Recorded crime,0.301,0.16461424206427858
+Wiltshire Police,2024-06,Possession of weapons,36,2024,767325,Recorded crime,0.0469,0.16461424206427858
+Wiltshire Police,2024-06,Public order,325,2024,767325,Recorded crime,0.4235,0.16461424206427858
+Wiltshire Police,2024-06,Robbery,13,2024,767325,Recorded crime,0.0169,0.16461424206427858
+Wiltshire Police,2024-06,Shoplifting,285,2024,767325,Recorded crime,0.3714,0.16461424206427858
+Wiltshire Police,2024-06,Theft from the person,22,2024,767325,Recorded crime,0.0287,0.16461424206427858
+Wiltshire Police,2024-06,Vehicle crime,197,2024,767325,Recorded crime,0.2567,0.16461424206427858
+Wiltshire Police,2024-06,Violence and sexual offences,1539,2024,767325,Recorded crime,2.0057,0.16461424206427858
+Wiltshire Police,2024-07,Anti-social behaviour,1220,2024,767325,ASB,1.5899,0.16461424206427858
+Wiltshire Police,2024-07,Bicycle theft,46,2024,767325,Recorded crime,0.0599,0.16461424206427858
+Wiltshire Police,2024-07,Burglary,131,2024,767325,Recorded crime,0.1707,0.16461424206427858
+Wiltshire Police,2024-07,Criminal damage and arson,362,2024,767325,Recorded crime,0.4718,0.16461424206427858
+Wiltshire Police,2024-07,Drugs,73,2024,767325,Recorded crime,0.0951,0.16461424206427858
+Wiltshire Police,2024-07,Other crime,97,2024,767325,Recorded crime,0.1264,0.16461424206427858
+Wiltshire Police,2024-07,Other theft,253,2024,767325,Recorded crime,0.3297,0.16461424206427858
+Wiltshire Police,2024-07,Possession of weapons,35,2024,767325,Recorded crime,0.0456,0.16461424206427858
+Wiltshire Police,2024-07,Public order,311,2024,767325,Recorded crime,0.4053,0.16461424206427858
+Wiltshire Police,2024-07,Robbery,13,2024,767325,Recorded crime,0.0169,0.16461424206427858
+Wiltshire Police,2024-07,Shoplifting,345,2024,767325,Recorded crime,0.4496,0.16461424206427858
+Wiltshire Police,2024-07,Theft from the person,21,2024,767325,Recorded crime,0.0274,0.16461424206427858
+Wiltshire Police,2024-07,Vehicle crime,161,2024,767325,Recorded crime,0.2098,0.16461424206427858
+Wiltshire Police,2024-07,Violence and sexual offences,1498,2024,767325,Recorded crime,1.9522,0.16461424206427858
+Wiltshire Police,2024-08,Anti-social behaviour,1133,2024,767325,ASB,1.4766,0.16461424206427858
+Wiltshire Police,2024-08,Bicycle theft,40,2024,767325,Recorded crime,0.0521,0.16461424206427858
+Wiltshire Police,2024-08,Burglary,111,2024,767325,Recorded crime,0.1447,0.16461424206427858
+Wiltshire Police,2024-08,Criminal damage and arson,344,2024,767325,Recorded crime,0.4483,0.16461424206427858
+Wiltshire Police,2024-08,Drugs,79,2024,767325,Recorded crime,0.103,0.16461424206427858
+Wiltshire Police,2024-08,Other crime,99,2024,767325,Recorded crime,0.129,0.16461424206427858
+Wiltshire Police,2024-08,Other theft,212,2024,767325,Recorded crime,0.2763,0.16461424206427858
+Wiltshire Police,2024-08,Possession of weapons,30,2024,767325,Recorded crime,0.0391,0.16461424206427858
+Wiltshire Police,2024-08,Public order,376,2024,767325,Recorded crime,0.49,0.16461424206427858
+Wiltshire Police,2024-08,Robbery,21,2024,767325,Recorded crime,0.0274,0.16461424206427858
+Wiltshire Police,2024-08,Shoplifting,292,2024,767325,Recorded crime,0.3805,0.16461424206427858
+Wiltshire Police,2024-08,Theft from the person,23,2024,767325,Recorded crime,0.03,0.16461424206427858
+Wiltshire Police,2024-08,Vehicle crime,176,2024,767325,Recorded crime,0.2294,0.16461424206427858
+Wiltshire Police,2024-08,Violence and sexual offences,1555,2024,767325,Recorded crime,2.0265,0.16461424206427858
+Wiltshire Police,2024-09,Anti-social behaviour,887,2024,767325,ASB,1.156,0.16461424206427858
+Wiltshire Police,2024-09,Bicycle theft,48,2024,767325,Recorded crime,0.0626,0.16461424206427858
+Wiltshire Police,2024-09,Burglary,121,2024,767325,Recorded crime,0.1577,0.16461424206427858
+Wiltshire Police,2024-09,Criminal damage and arson,319,2024,767325,Recorded crime,0.4157,0.16461424206427858
+Wiltshire Police,2024-09,Drugs,81,2024,767325,Recorded crime,0.1056,0.16461424206427858
+Wiltshire Police,2024-09,Other crime,116,2024,767325,Recorded crime,0.1512,0.16461424206427858
+Wiltshire Police,2024-09,Other theft,198,2024,767325,Recorded crime,0.258,0.16461424206427858
+Wiltshire Police,2024-09,Possession of weapons,24,2024,767325,Recorded crime,0.0313,0.16461424206427858
+Wiltshire Police,2024-09,Public order,264,2024,767325,Recorded crime,0.3441,0.16461424206427858
+Wiltshire Police,2024-09,Robbery,27,2024,767325,Recorded crime,0.0352,0.16461424206427858
+Wiltshire Police,2024-09,Shoplifting,340,2024,767325,Recorded crime,0.4431,0.16461424206427858
+Wiltshire Police,2024-09,Theft from the person,16,2024,767325,Recorded crime,0.0209,0.16461424206427858
+Wiltshire Police,2024-09,Vehicle crime,185,2024,767325,Recorded crime,0.2411,0.16461424206427858
+Wiltshire Police,2024-09,Violence and sexual offences,1462,2024,767325,Recorded crime,1.9053,0.16461424206427858
+Wiltshire Police,2024-10,Anti-social behaviour,906,2024,767325,ASB,1.1807,0.16461424206427858
+Wiltshire Police,2024-10,Bicycle theft,35,2024,767325,Recorded crime,0.0456,0.16461424206427858
+Wiltshire Police,2024-10,Burglary,140,2024,767325,Recorded crime,0.1825,0.16461424206427858
+Wiltshire Police,2024-10,Criminal damage and arson,345,2024,767325,Recorded crime,0.4496,0.16461424206427858
+Wiltshire Police,2024-10,Drugs,108,2024,767325,Recorded crime,0.1407,0.16461424206427858
+Wiltshire Police,2024-10,Other crime,89,2024,767325,Recorded crime,0.116,0.16461424206427858
+Wiltshire Police,2024-10,Other theft,212,2024,767325,Recorded crime,0.2763,0.16461424206427858
+Wiltshire Police,2024-10,Possession of weapons,40,2024,767325,Recorded crime,0.0521,0.16461424206427858
+Wiltshire Police,2024-10,Public order,284,2024,767325,Recorded crime,0.3701,0.16461424206427858
+Wiltshire Police,2024-10,Robbery,16,2024,767325,Recorded crime,0.0209,0.16461424206427858
+Wiltshire Police,2024-10,Shoplifting,349,2024,767325,Recorded crime,0.4548,0.16461424206427858
+Wiltshire Police,2024-10,Theft from the person,13,2024,767325,Recorded crime,0.0169,0.16461424206427858
+Wiltshire Police,2024-10,Vehicle crime,230,2024,767325,Recorded crime,0.2997,0.16461424206427858
+Wiltshire Police,2024-10,Violence and sexual offences,1512,2024,767325,Recorded crime,1.9705,0.16461424206427858
+Wiltshire Police,2024-11,Anti-social behaviour,823,2024,767325,ASB,1.0726,0.16461424206427858
+Wiltshire Police,2024-11,Bicycle theft,27,2024,767325,Recorded crime,0.0352,0.16461424206427858
+Wiltshire Police,2024-11,Burglary,117,2024,767325,Recorded crime,0.1525,0.16461424206427858
+Wiltshire Police,2024-11,Criminal damage and arson,362,2024,767325,Recorded crime,0.4718,0.16461424206427858
+Wiltshire Police,2024-11,Drugs,106,2024,767325,Recorded crime,0.1381,0.16461424206427858
+Wiltshire Police,2024-11,Other crime,80,2024,767325,Recorded crime,0.1043,0.16461424206427858
+Wiltshire Police,2024-11,Other theft,218,2024,767325,Recorded crime,0.2841,0.16461424206427858
+Wiltshire Police,2024-11,Possession of weapons,23,2024,767325,Recorded crime,0.03,0.16461424206427858
+Wiltshire Police,2024-11,Public order,307,2024,767325,Recorded crime,0.4001,0.16461424206427858
+Wiltshire Police,2024-11,Robbery,12,2024,767325,Recorded crime,0.0156,0.16461424206427858
+Wiltshire Police,2024-11,Shoplifting,336,2024,767325,Recorded crime,0.4379,0.16461424206427858
+Wiltshire Police,2024-11,Theft from the person,22,2024,767325,Recorded crime,0.0287,0.16461424206427858
+Wiltshire Police,2024-11,Vehicle crime,167,2024,767325,Recorded crime,0.2176,0.16461424206427858
+Wiltshire Police,2024-11,Violence and sexual offences,1380,2024,767325,Recorded crime,1.7985,0.16461424206427858
+Wiltshire Police,2024-12,Anti-social behaviour,645,2024,767325,ASB,0.8406,0.16461424206427858
+Wiltshire Police,2024-12,Bicycle theft,23,2024,767325,Recorded crime,0.03,0.16461424206427858
+Wiltshire Police,2024-12,Burglary,124,2024,767325,Recorded crime,0.1616,0.16461424206427858
+Wiltshire Police,2024-12,Criminal damage and arson,291,2024,767325,Recorded crime,0.3792,0.16461424206427858
+Wiltshire Police,2024-12,Drugs,108,2024,767325,Recorded crime,0.1407,0.16461424206427858
+Wiltshire Police,2024-12,Other crime,114,2024,767325,Recorded crime,0.1486,0.16461424206427858
+Wiltshire Police,2024-12,Other theft,210,2024,767325,Recorded crime,0.2737,0.16461424206427858
+Wiltshire Police,2024-12,Possession of weapons,32,2024,767325,Recorded crime,0.0417,0.16461424206427858
+Wiltshire Police,2024-12,Public order,284,2024,767325,Recorded crime,0.3701,0.16461424206427858
+Wiltshire Police,2024-12,Robbery,18,2024,767325,Recorded crime,0.0235,0.16461424206427858
+Wiltshire Police,2024-12,Shoplifting,263,2024,767325,Recorded crime,0.3427,0.16461424206427858
+Wiltshire Police,2024-12,Theft from the person,17,2024,767325,Recorded crime,0.0222,0.16461424206427858
+Wiltshire Police,2024-12,Vehicle crime,155,2024,767325,Recorded crime,0.202,0.16461424206427858
+Wiltshire Police,2024-12,Violence and sexual offences,1497,2024,767325,Recorded crime,1.9509,0.16461424206427858
+Wiltshire Police,2025-01,Anti-social behaviour,629,2025,771678,ASB,0.8151,0.16461424206427858
+Wiltshire Police,2025-01,Bicycle theft,27,2025,771678,Recorded crime,0.035,0.16461424206427858
+Wiltshire Police,2025-01,Burglary,144,2025,771678,Recorded crime,0.1866,0.16461424206427858
+Wiltshire Police,2025-01,Criminal damage and arson,315,2025,771678,Recorded crime,0.4082,0.16461424206427858
+Wiltshire Police,2025-01,Drugs,97,2025,771678,Recorded crime,0.1257,0.16461424206427858
+Wiltshire Police,2025-01,Other crime,89,2025,771678,Recorded crime,0.1153,0.16461424206427858
+Wiltshire Police,2025-01,Other theft,198,2025,771678,Recorded crime,0.2566,0.16461424206427858
+Wiltshire Police,2025-01,Possession of weapons,32,2025,771678,Recorded crime,0.0415,0.16461424206427858
+Wiltshire Police,2025-01,Public order,296,2025,771678,Recorded crime,0.3836,0.16461424206427858
+Wiltshire Police,2025-01,Robbery,19,2025,771678,Recorded crime,0.0246,0.16461424206427858
+Wiltshire Police,2025-01,Shoplifting,294,2025,771678,Recorded crime,0.381,0.16461424206427858
+Wiltshire Police,2025-01,Theft from the person,25,2025,771678,Recorded crime,0.0324,0.16461424206427858
+Wiltshire Police,2025-01,Vehicle crime,136,2025,771678,Recorded crime,0.1762,0.16461424206427858
+Wiltshire Police,2025-01,Violence and sexual offences,1473,2025,771678,Recorded crime,1.9088,0.16461424206427858
+Wiltshire Police,2025-02,Anti-social behaviour,584,2025,771678,ASB,0.7568,0.16461424206427858
+Wiltshire Police,2025-02,Bicycle theft,32,2025,771678,Recorded crime,0.0415,0.16461424206427858
+Wiltshire Police,2025-02,Burglary,130,2025,771678,Recorded crime,0.1685,0.16461424206427858
+Wiltshire Police,2025-02,Criminal damage and arson,285,2025,771678,Recorded crime,0.3693,0.16461424206427858
+Wiltshire Police,2025-02,Drugs,95,2025,771678,Recorded crime,0.1231,0.16461424206427858
+Wiltshire Police,2025-02,Other crime,90,2025,771678,Recorded crime,0.1166,0.16461424206427858
+Wiltshire Police,2025-02,Other theft,197,2025,771678,Recorded crime,0.2553,0.16461424206427858
+Wiltshire Police,2025-02,Possession of weapons,38,2025,771678,Recorded crime,0.0492,0.16461424206427858
+Wiltshire Police,2025-02,Public order,324,2025,771678,Recorded crime,0.4199,0.16461424206427858
+Wiltshire Police,2025-02,Robbery,10,2025,771678,Recorded crime,0.013,0.16461424206427858
+Wiltshire Police,2025-02,Shoplifting,310,2025,771678,Recorded crime,0.4017,0.16461424206427858
+Wiltshire Police,2025-02,Theft from the person,13,2025,771678,Recorded crime,0.0168,0.16461424206427858
+Wiltshire Police,2025-02,Vehicle crime,136,2025,771678,Recorded crime,0.1762,0.16461424206427858
+Wiltshire Police,2025-02,Violence and sexual offences,1439,2025,771678,Recorded crime,1.8648,0.16461424206427858
+Wiltshire Police,2025-03,Anti-social behaviour,790,2025,771678,ASB,1.0237,0.16461424206427858
+Wiltshire Police,2025-03,Bicycle theft,49,2025,771678,Recorded crime,0.0635,0.16461424206427858
+Wiltshire Police,2025-03,Burglary,148,2025,771678,Recorded crime,0.1918,0.16461424206427858
+Wiltshire Police,2025-03,Criminal damage and arson,370,2025,771678,Recorded crime,0.4795,0.16461424206427858
+Wiltshire Police,2025-03,Drugs,107,2025,771678,Recorded crime,0.1387,0.16461424206427858
+Wiltshire Police,2025-03,Other crime,114,2025,771678,Recorded crime,0.1477,0.16461424206427858
+Wiltshire Police,2025-03,Other theft,243,2025,771678,Recorded crime,0.3149,0.16461424206427858
+Wiltshire Police,2025-03,Possession of weapons,45,2025,771678,Recorded crime,0.0583,0.16461424206427858
+Wiltshire Police,2025-03,Public order,343,2025,771678,Recorded crime,0.4445,0.16461424206427858
+Wiltshire Police,2025-03,Robbery,11,2025,771678,Recorded crime,0.0143,0.16461424206427858
+Wiltshire Police,2025-03,Shoplifting,373,2025,771678,Recorded crime,0.4834,0.16461424206427858
+Wiltshire Police,2025-03,Theft from the person,30,2025,771678,Recorded crime,0.0389,0.16461424206427858
+Wiltshire Police,2025-03,Vehicle crime,136,2025,771678,Recorded crime,0.1762,0.16461424206427858
+Wiltshire Police,2025-03,Violence and sexual offences,1615,2025,771678,Recorded crime,2.0928,0.16461424206427858
+Wiltshire Police,2025-04,Anti-social behaviour,896,2025,771678,ASB,1.1611,0.16461424206427858
+Wiltshire Police,2025-04,Bicycle theft,51,2025,771678,Recorded crime,0.0661,0.16461424206427858
+Wiltshire Police,2025-04,Burglary,142,2025,771678,Recorded crime,0.184,0.16461424206427858
+Wiltshire Police,2025-04,Criminal damage and arson,379,2025,771678,Recorded crime,0.4911,0.16461424206427858
+Wiltshire Police,2025-04,Drugs,120,2025,771678,Recorded crime,0.1555,0.16461424206427858
+Wiltshire Police,2025-04,Other crime,111,2025,771678,Recorded crime,0.1438,0.16461424206427858
+Wiltshire Police,2025-04,Other theft,219,2025,771678,Recorded crime,0.2838,0.16461424206427858
+Wiltshire Police,2025-04,Possession of weapons,40,2025,771678,Recorded crime,0.0518,0.16461424206427858
+Wiltshire Police,2025-04,Public order,320,2025,771678,Recorded crime,0.4147,0.16461424206427858
+Wiltshire Police,2025-04,Robbery,28,2025,771678,Recorded crime,0.0363,0.16461424206427858
+Wiltshire Police,2025-04,Shoplifting,317,2025,771678,Recorded crime,0.4108,0.16461424206427858
+Wiltshire Police,2025-04,Theft from the person,25,2025,771678,Recorded crime,0.0324,0.16461424206427858
+Wiltshire Police,2025-04,Vehicle crime,129,2025,771678,Recorded crime,0.1672,0.16461424206427858
+Wiltshire Police,2025-04,Violence and sexual offences,1536,2025,771678,Recorded crime,1.9905,0.16461424206427858
+Wiltshire Police,2025-05,Anti-social behaviour,925,2025,771678,ASB,1.1987,0.16461424206427858
+Wiltshire Police,2025-05,Bicycle theft,66,2025,771678,Recorded crime,0.0855,0.16461424206427858
+Wiltshire Police,2025-05,Burglary,136,2025,771678,Recorded crime,0.1762,0.16461424206427858
+Wiltshire Police,2025-05,Criminal damage and arson,405,2025,771678,Recorded crime,0.5248,0.16461424206427858
+Wiltshire Police,2025-05,Drugs,103,2025,771678,Recorded crime,0.1335,0.16461424206427858
+Wiltshire Police,2025-05,Other crime,109,2025,771678,Recorded crime,0.1413,0.16461424206427858
+Wiltshire Police,2025-05,Other theft,243,2025,771678,Recorded crime,0.3149,0.16461424206427858
+Wiltshire Police,2025-05,Possession of weapons,41,2025,771678,Recorded crime,0.0531,0.16461424206427858
+Wiltshire Police,2025-05,Public order,397,2025,771678,Recorded crime,0.5145,0.16461424206427858
+Wiltshire Police,2025-05,Robbery,28,2025,771678,Recorded crime,0.0363,0.16461424206427858
+Wiltshire Police,2025-05,Shoplifting,369,2025,771678,Recorded crime,0.4782,0.16461424206427858
+Wiltshire Police,2025-05,Theft from the person,19,2025,771678,Recorded crime,0.0246,0.16461424206427858
+Wiltshire Police,2025-05,Vehicle crime,180,2025,771678,Recorded crime,0.2333,0.16461424206427858
+Wiltshire Police,2025-05,Violence and sexual offences,1752,2025,771678,Recorded crime,2.2704,0.16461424206427858
+Wiltshire Police,2025-06,Anti-social behaviour,907,2025,771678,ASB,1.1754,0.16461424206427858
+Wiltshire Police,2025-06,Bicycle theft,47,2025,771678,Recorded crime,0.0609,0.16461424206427858
+Wiltshire Police,2025-06,Burglary,118,2025,771678,Recorded crime,0.1529,0.16461424206427858
+Wiltshire Police,2025-06,Criminal damage and arson,404,2025,771678,Recorded crime,0.5235,0.16461424206427858
+Wiltshire Police,2025-06,Drugs,107,2025,771678,Recorded crime,0.1387,0.16461424206427858
+Wiltshire Police,2025-06,Other crime,116,2025,771678,Recorded crime,0.1503,0.16461424206427858
+Wiltshire Police,2025-06,Other theft,237,2025,771678,Recorded crime,0.3071,0.16461424206427858
+Wiltshire Police,2025-06,Possession of weapons,37,2025,771678,Recorded crime,0.0479,0.16461424206427858
+Wiltshire Police,2025-06,Public order,416,2025,771678,Recorded crime,0.5391,0.16461424206427858
+Wiltshire Police,2025-06,Robbery,18,2025,771678,Recorded crime,0.0233,0.16461424206427858
+Wiltshire Police,2025-06,Shoplifting,360,2025,771678,Recorded crime,0.4665,0.16461424206427858
+Wiltshire Police,2025-06,Theft from the person,20,2025,771678,Recorded crime,0.0259,0.16461424206427858
+Wiltshire Police,2025-06,Vehicle crime,134,2025,771678,Recorded crime,0.1736,0.16461424206427858
+Wiltshire Police,2025-06,Violence and sexual offences,1774,2025,771678,Recorded crime,2.2989,0.16461424206427858
+Wiltshire Police,2025-07,Anti-social behaviour,1047,2025,771678,ASB,1.3568,0.16461424206427858
+Wiltshire Police,2025-07,Bicycle theft,57,2025,771678,Recorded crime,0.0739,0.16461424206427858
+Wiltshire Police,2025-07,Burglary,137,2025,771678,Recorded crime,0.1775,0.16461424206427858
+Wiltshire Police,2025-07,Criminal damage and arson,399,2025,771678,Recorded crime,0.5171,0.16461424206427858
+Wiltshire Police,2025-07,Drugs,119,2025,771678,Recorded crime,0.1542,0.16461424206427858
+Wiltshire Police,2025-07,Other crime,97,2025,771678,Recorded crime,0.1257,0.16461424206427858
+Wiltshire Police,2025-07,Other theft,263,2025,771678,Recorded crime,0.3408,0.16461424206427858
+Wiltshire Police,2025-07,Possession of weapons,42,2025,771678,Recorded crime,0.0544,0.16461424206427858
+Wiltshire Police,2025-07,Public order,415,2025,771678,Recorded crime,0.5378,0.16461424206427858
+Wiltshire Police,2025-07,Robbery,20,2025,771678,Recorded crime,0.0259,0.16461424206427858
+Wiltshire Police,2025-07,Shoplifting,409,2025,771678,Recorded crime,0.53,0.16461424206427858
+Wiltshire Police,2025-07,Theft from the person,43,2025,771678,Recorded crime,0.0557,0.16461424206427858
+Wiltshire Police,2025-07,Vehicle crime,144,2025,771678,Recorded crime,0.1866,0.16461424206427858
+Wiltshire Police,2025-07,Violence and sexual offences,1891,2025,771678,Recorded crime,2.4505,0.16461424206427858
+Wiltshire Police,2025-08,Anti-social behaviour,1047,2025,771678,ASB,1.3568,0.16461424206427858
+Wiltshire Police,2025-08,Bicycle theft,32,2025,771678,Recorded crime,0.0415,0.16461424206427858
+Wiltshire Police,2025-08,Burglary,167,2025,771678,Recorded crime,0.2164,0.16461424206427858
+Wiltshire Police,2025-08,Criminal damage and arson,361,2025,771678,Recorded crime,0.4678,0.16461424206427858
+Wiltshire Police,2025-08,Drugs,101,2025,771678,Recorded crime,0.1309,0.16461424206427858
+Wiltshire Police,2025-08,Other crime,109,2025,771678,Recorded crime,0.1413,0.16461424206427858
+Wiltshire Police,2025-08,Other theft,210,2025,771678,Recorded crime,0.2721,0.16461424206427858
+Wiltshire Police,2025-08,Possession of weapons,40,2025,771678,Recorded crime,0.0518,0.16461424206427858
+Wiltshire Police,2025-08,Public order,410,2025,771678,Recorded crime,0.5313,0.16461424206427858
+Wiltshire Police,2025-08,Robbery,29,2025,771678,Recorded crime,0.0376,0.16461424206427858
+Wiltshire Police,2025-08,Shoplifting,298,2025,771678,Recorded crime,0.3862,0.16461424206427858
+Wiltshire Police,2025-08,Theft from the person,24,2025,771678,Recorded crime,0.0311,0.16461424206427858
+Wiltshire Police,2025-08,Vehicle crime,99,2025,771678,Recorded crime,0.1283,0.16461424206427858
+Wiltshire Police,2025-08,Violence and sexual offences,1602,2025,771678,Recorded crime,2.076,0.16461424206427858
+Wiltshire Police,2025-09,Anti-social behaviour,867,2025,771678,ASB,1.1235,0.16461424206427858
+Wiltshire Police,2025-09,Bicycle theft,47,2025,771678,Recorded crime,0.0609,0.16461424206427858
+Wiltshire Police,2025-09,Burglary,123,2025,771678,Recorded crime,0.1594,0.16461424206427858
+Wiltshire Police,2025-09,Criminal damage and arson,299,2025,771678,Recorded crime,0.3875,0.16461424206427858
+Wiltshire Police,2025-09,Drugs,96,2025,771678,Recorded crime,0.1244,0.16461424206427858
+Wiltshire Police,2025-09,Other crime,83,2025,771678,Recorded crime,0.1076,0.16461424206427858
+Wiltshire Police,2025-09,Other theft,221,2025,771678,Recorded crime,0.2864,0.16461424206427858
+Wiltshire Police,2025-09,Possession of weapons,32,2025,771678,Recorded crime,0.0415,0.16461424206427858
+Wiltshire Police,2025-09,Public order,302,2025,771678,Recorded crime,0.3914,0.16461424206427858
+Wiltshire Police,2025-09,Robbery,22,2025,771678,Recorded crime,0.0285,0.16461424206427858
+Wiltshire Police,2025-09,Shoplifting,275,2025,771678,Recorded crime,0.3564,0.16461424206427858
+Wiltshire Police,2025-09,Theft from the person,15,2025,771678,Recorded crime,0.0194,0.16461424206427858
+Wiltshire Police,2025-09,Vehicle crime,158,2025,771678,Recorded crime,0.2047,0.16461424206427858
+Wiltshire Police,2025-09,Violence and sexual offences,1574,2025,771678,Recorded crime,2.0397,0.16461424206427858
+Wiltshire Police,2025-10,Anti-social behaviour,822,2025,771678,ASB,1.0652,0.16461424206427858
+Wiltshire Police,2025-10,Bicycle theft,47,2025,771678,Recorded crime,0.0609,0.16461424206427858
+Wiltshire Police,2025-10,Burglary,128,2025,771678,Recorded crime,0.1659,0.16461424206427858
+Wiltshire Police,2025-10,Criminal damage and arson,325,2025,771678,Recorded crime,0.4212,0.16461424206427858
+Wiltshire Police,2025-10,Drugs,119,2025,771678,Recorded crime,0.1542,0.16461424206427858
+Wiltshire Police,2025-10,Other crime,91,2025,771678,Recorded crime,0.1179,0.16461424206427858
+Wiltshire Police,2025-10,Other theft,229,2025,771678,Recorded crime,0.2968,0.16461424206427858
+Wiltshire Police,2025-10,Possession of weapons,34,2025,771678,Recorded crime,0.0441,0.16461424206427858
+Wiltshire Police,2025-10,Public order,312,2025,771678,Recorded crime,0.4043,0.16461424206427858
+Wiltshire Police,2025-10,Robbery,15,2025,771678,Recorded crime,0.0194,0.16461424206427858
+Wiltshire Police,2025-10,Shoplifting,352,2025,771678,Recorded crime,0.4561,0.16461424206427858
+Wiltshire Police,2025-10,Theft from the person,21,2025,771678,Recorded crime,0.0272,0.16461424206427858
+Wiltshire Police,2025-10,Vehicle crime,126,2025,771678,Recorded crime,0.1633,0.16461424206427858
+Wiltshire Police,2025-10,Violence and sexual offences,1734,2025,771678,Recorded crime,2.2471,0.16461424206427858
+Wiltshire Police,2025-11,Anti-social behaviour,706,2025,771678,ASB,0.9149,0.16461424206427858
+Wiltshire Police,2025-11,Bicycle theft,25,2025,771678,Recorded crime,0.0324,0.16461424206427858
+Wiltshire Police,2025-11,Burglary,129,2025,771678,Recorded crime,0.1672,0.16461424206427858
+Wiltshire Police,2025-11,Criminal damage and arson,386,2025,771678,Recorded crime,0.5002,0.16461424206427858
+Wiltshire Police,2025-11,Drugs,120,2025,771678,Recorded crime,0.1555,0.16461424206427858
+Wiltshire Police,2025-11,Other crime,100,2025,771678,Recorded crime,0.1296,0.16461424206427858
+Wiltshire Police,2025-11,Other theft,206,2025,771678,Recorded crime,0.267,0.16461424206427858
+Wiltshire Police,2025-11,Possession of weapons,34,2025,771678,Recorded crime,0.0441,0.16461424206427858
+Wiltshire Police,2025-11,Public order,280,2025,771678,Recorded crime,0.3628,0.16461424206427858
+Wiltshire Police,2025-11,Robbery,20,2025,771678,Recorded crime,0.0259,0.16461424206427858
+Wiltshire Police,2025-11,Shoplifting,338,2025,771678,Recorded crime,0.438,0.16461424206427858
+Wiltshire Police,2025-11,Theft from the person,16,2025,771678,Recorded crime,0.0207,0.16461424206427858
+Wiltshire Police,2025-11,Vehicle crime,166,2025,771678,Recorded crime,0.2151,0.16461424206427858
+Wiltshire Police,2025-11,Violence and sexual offences,1636,2025,771678,Recorded crime,2.1201,0.16461424206427858
+Wiltshire Police,2025-12,Anti-social behaviour,715,2025,771678,ASB,0.9266,0.16461424206427858
+Wiltshire Police,2025-12,Bicycle theft,22,2025,771678,Recorded crime,0.0285,0.16461424206427858
+Wiltshire Police,2025-12,Burglary,157,2025,771678,Recorded crime,0.2035,0.16461424206427858
+Wiltshire Police,2025-12,Criminal damage and arson,338,2025,771678,Recorded crime,0.438,0.16461424206427858
+Wiltshire Police,2025-12,Drugs,121,2025,771678,Recorded crime,0.1568,0.16461424206427858
+Wiltshire Police,2025-12,Other crime,110,2025,771678,Recorded crime,0.1425,0.16461424206427858
+Wiltshire Police,2025-12,Other theft,222,2025,771678,Recorded crime,0.2877,0.16461424206427858
+Wiltshire Police,2025-12,Possession of weapons,35,2025,771678,Recorded crime,0.0454,0.16461424206427858
+Wiltshire Police,2025-12,Public order,247,2025,771678,Recorded crime,0.3201,0.16461424206427858
+Wiltshire Police,2025-12,Robbery,19,2025,771678,Recorded crime,0.0246,0.16461424206427858
+Wiltshire Police,2025-12,Shoplifting,316,2025,771678,Recorded crime,0.4095,0.16461424206427858
+Wiltshire Police,2025-12,Theft from the person,22,2025,771678,Recorded crime,0.0285,0.16461424206427858
+Wiltshire Police,2025-12,Vehicle crime,147,2025,771678,Recorded crime,0.1905,0.16461424206427858
+Wiltshire Police,2025-12,Violence and sexual offences,1534,2025,771678,Recorded crime,1.9879,0.16461424206427858
